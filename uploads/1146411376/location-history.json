@@ -1,0 +1,45 @@
+{
+  "semanticSegments": [
+    {
+      "startTime": "2025-04-01T14:00:00.000+02:00",
+      "endTime": "2025-04-01T16:00:00.000+02:00",
+      "timelinePath": [
+        {
+          "point": "45.4376506°, 11.010977°",
+          "time": "2025-04-01T14:10:00.000+02:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-04-01T14:09:43.000+02:00",
+      "endTime": "2025-04-01T14:10:21.000+02:00",
+      "startTimeTimezoneUtcOffsetMinutes": 120,
+      "endTimeTimezoneUtcOffsetMinutes": 120,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.6307492852210999,
+        "topCandidate": {
+          "placeId": "ChIJL1ZQTCVff0cR8tJWVz3O0wQ",
+          "semanticType": "UNKNOWN",
+          "probability": 0.3016151189804077,
+          "placeLocation": {
+            "latLng": "45.4390447°, 11.0114561°"
+          }
+        }
+      }
+    }
+  ],
+  "rawSignals": [
+    {
+      "position": {
+        "LatLng": "45.4376506°, 11.010977°",
+        "accuracyMeters": 17,
+        "altitudeMeters": 102.5999984741211,
+        "source": "UNKNOWN",
+        "timestamp": "2025-04-01T14:09:43.000+02:00",
+        "speedMetersPerSecond": 0.3869289755821228
+      }
+    }
+  ],
+  "userLocationProfile": {}
+}

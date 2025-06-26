@@ -1,0 +1,4644 @@
+[
+  {
+    "endTime" : "2025-06-03T08:09:57.696+02:00",
+    "startTime" : "2025-06-02T23:10:12.685+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.645562",
+        "semanticType" : "Searched Address",
+        "placeID" : "ChIJBa_iXQtff0cR6DLWpALLdSk",
+        "placeLocation" : "geo:45.416139,10.992505"
+      },
+      "probability" : "0.893997"
+    }
+  },
+  {
+    "endTime" : "2025-06-03T11:18:09.153+02:00",
+    "startTime" : "2025-06-03T08:09:57.696+02:00",
+    "activity" : {
+      "probability" : "0.891134",
+      "end" : "geo:45.437444,11.003985",
+      "topCandidate" : {
+        "type" : "walking",
+        "probability" : "0.427241"
+      },
+      "distanceMeters" : "2459.677246",
+      "start" : "geo:45.417303,10.990953"
+    }
+  },
+  {
+    "endTime" : "2025-06-03T12:10:06.328+02:00",
+    "startTime" : "2025-06-03T11:18:09.153+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.246039",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJoy55sjlff0cRifEnyZrjk-s",
+        "placeLocation" : "geo:45.437484,11.003063"
+      },
+      "probability" : "0.594600"
+    }
+  },
+  {
+    "endTime" : "2025-06-03T12:24:51.119+02:00",
+    "startTime" : "2025-06-03T12:10:06.328+02:00",
+    "activity" : {
+      "probability" : "0.684921",
+      "end" : "geo:45.437601,11.002169",
+      "topCandidate" : {
+        "type" : "walking",
+        "probability" : "0.637057"
+      },
+      "distanceMeters" : "536.238586",
+      "start" : "geo:45.437444,11.003985"
+    }
+  },
+  {
+    "endTime" : "2025-06-03T13:09:41.649+02:00",
+    "startTime" : "2025-06-03T12:24:51.119+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.405211",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJ_5z5ojhff0cRGG7xvX46NU8",
+        "placeLocation" : "geo:45.435879,10.999221"
+      },
+      "probability" : "0.806622"
+    }
+  },
+  {
+    "endTime" : "2025-06-03T13:26:08.999+02:00",
+    "startTime" : "2025-06-03T13:09:41.649+02:00",
+    "activity" : {
+      "probability" : "0.980987",
+      "end" : "geo:45.426784,10.993260",
+      "topCandidate" : {
+        "type" : "walking",
+        "probability" : "0.928473"
+      },
+      "distanceMeters" : "1186.250366",
+      "start" : "geo:45.435493,10.998602"
+    }
+  },
+  {
+    "endTime" : "2025-06-03T13:37:06.026+02:00",
+    "startTime" : "2025-06-03T13:26:08.999+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.264585",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJJ0DcYWxff0cRvtIuoCV9aNs",
+        "placeLocation" : "geo:45.426758,10.992443"
+      },
+      "probability" : "0.666728"
+    }
+  },
+  {
+    "endTime" : "2025-06-03T13:41:16.524+02:00",
+    "startTime" : "2025-06-03T13:37:06.026+02:00",
+    "activity" : {
+      "probability" : "0.984827",
+      "end" : "geo:45.415995,10.992194",
+      "topCandidate" : {
+        "type" : "in passenger vehicle",
+        "probability" : "0.800717"
+      },
+      "distanceMeters" : "1241.746826",
+      "start" : "geo:45.425536,10.992375"
+    }
+  },
+  {
+    "endTime" : "2025-06-04T09:39:25.894+02:00",
+    "startTime" : "2025-06-03T13:41:16.524+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.645967",
+        "semanticType" : "Searched Address",
+        "placeID" : "ChIJBa_iXQtff0cR6DLWpALLdSk",
+        "placeLocation" : "geo:45.416139,10.992505"
+      },
+      "probability" : "0.608239"
+    }
+  },
+  {
+    "endTime" : "2025-06-04T09:54:28.539+02:00",
+    "startTime" : "2025-06-04T09:39:25.894+02:00",
+    "activity" : {
+      "probability" : "0.910115",
+      "end" : "geo:45.408607,11.000127",
+      "topCandidate" : {
+        "type" : "walking",
+        "probability" : "0.524137"
+      },
+      "distanceMeters" : "1039.711914",
+      "start" : "geo:45.416204,10.992361"
+    }
+  },
+  {
+    "endTime" : "2025-06-04T09:59:29.019+02:00",
+    "startTime" : "2025-06-04T09:54:28.539+02:00",
+    "activity" : {
+      "probability" : "0.996305",
+      "end" : "geo:45.404168,10.999280",
+      "topCandidate" : {
+        "type" : "in bus",
+        "probability" : "0.824228"
+      },
+      "distanceMeters" : "813.319824",
+      "start" : "geo:45.408607,11.000127"
+    }
+  },
+  {
+    "endTime" : "2025-06-04T10:02:23.310+02:00",
+    "startTime" : "2025-06-04T09:59:29.019+02:00",
+    "activity" : {
+      "probability" : "0.708997",
+      "end" : "geo:45.403361,10.996261",
+      "topCandidate" : {
+        "type" : "walking",
+        "probability" : "0.399666"
+      },
+      "distanceMeters" : "153.158188",
+      "start" : "geo:45.404132,10.997615"
+    }
+  },
+  {
+    "endTime" : "2025-06-04T18:37:18.021+02:00",
+    "startTime" : "2025-06-04T10:02:23.310+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.555392",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJienwPqVff0cRA7KQOk7iNuA",
+        "placeLocation" : "geo:45.402797,10.996219"
+      },
+      "probability" : "0.937201"
+    }
+  },
+  {
+    "endTime" : "2025-06-04T18:37:18.021+02:00",
+    "startTime" : "2025-06-04T10:02:23.310+02:00",
+    "visit" : {
+      "hierarchyLevel" : "1",
+      "topCandidate" : {
+        "probability" : "0.492914",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJmZuD77Bff0cRhsj_RPEUYsI",
+        "placeLocation" : "geo:45.402943,10.996095"
+      },
+      "probability" : "0.937201"
+    }
+  },
+  {
+    "endTime" : "2025-06-04T19:12:10.638+02:00",
+    "startTime" : "2025-06-04T18:37:18.021+02:00",
+    "activity" : {
+      "probability" : "0.967126",
+      "end" : "geo:45.415618,10.993053",
+      "topCandidate" : {
+        "type" : "walking",
+        "probability" : "0.600166"
+      },
+      "distanceMeters" : "2157.189697",
+      "start" : "geo:45.403235,10.997313"
+    }
+  },
+  {
+    "endTime" : "2025-06-05T11:20:51.788+02:00",
+    "startTime" : "2025-06-04T19:12:10.638+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.590621",
+        "semanticType" : "Searched Address",
+        "placeID" : "ChIJBa_iXQtff0cR6DLWpALLdSk",
+        "placeLocation" : "geo:45.416139,10.992505"
+      },
+      "probability" : "0.545878"
+    }
+  },
+  {
+    "endTime" : "2025-06-05T11:30:45.279+02:00",
+    "startTime" : "2025-06-05T11:20:51.788+02:00",
+    "activity" : {
+      "probability" : "0.992967",
+      "end" : "geo:45.404283,10.997410",
+      "topCandidate" : {
+        "type" : "in bus",
+        "probability" : "0.666901"
+      },
+      "distanceMeters" : "1746.613525",
+      "start" : "geo:45.413797,10.995289"
+    }
+  },
+  {
+    "endTime" : "2025-06-05T17:02:43.975+02:00",
+    "startTime" : "2025-06-05T11:30:45.279+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.453420",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJienwPqVff0cRA7KQOk7iNuA",
+        "placeLocation" : "geo:45.402797,10.996219"
+      },
+      "probability" : "0.908035"
+    }
+  },
+  {
+    "endTime" : "2025-06-05T17:02:43.975+02:00",
+    "startTime" : "2025-06-05T11:30:45.279+02:00",
+    "visit" : {
+      "hierarchyLevel" : "1",
+      "topCandidate" : {
+        "probability" : "0.485281",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJmZuD77Bff0cRhsj_RPEUYsI",
+        "placeLocation" : "geo:45.402943,10.996095"
+      },
+      "probability" : "0.908035"
+    }
+  },
+  {
+    "endTime" : "2025-06-05T17:11:47.119+02:00",
+    "startTime" : "2025-06-05T17:02:43.975+02:00",
+    "activity" : {
+      "probability" : "0.648868",
+      "end" : "geo:45.404368,10.999340",
+      "topCandidate" : {
+        "type" : "walking",
+        "probability" : "0.372704"
+      },
+      "distanceMeters" : "223.475021",
+      "start" : "geo:45.403224,10.997157"
+    }
+  },
+  {
+    "endTime" : "2025-06-05T17:24:56.289+02:00",
+    "startTime" : "2025-06-05T17:11:47.119+02:00",
+    "activity" : {
+      "probability" : "0.988401",
+      "end" : "geo:45.415914,10.992323",
+      "topCandidate" : {
+        "type" : "in bus",
+        "probability" : "0.683093"
+      },
+      "distanceMeters" : "1935.373413",
+      "start" : "geo:45.404368,10.999340"
+    }
+  },
+  {
+    "endTime" : "2025-06-05T18:14:50.039+02:00",
+    "startTime" : "2025-06-05T17:24:56.289+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.842058",
+        "semanticType" : "Searched Address",
+        "placeID" : "ChIJBa_iXQtff0cR6DLWpALLdSk",
+        "placeLocation" : "geo:45.416139,10.992505"
+      },
+      "probability" : "0.875783"
+    }
+  },
+  {
+    "endTime" : "2025-06-05T18:26:38.031+02:00",
+    "startTime" : "2025-06-05T18:14:50.039+02:00",
+    "activity" : {
+      "probability" : "0.885963",
+      "end" : "geo:45.423137,10.961410",
+      "topCandidate" : {
+        "type" : "walking",
+        "probability" : "0.472702"
+      },
+      "distanceMeters" : "34.625717",
+      "start" : "geo:45.423125,10.961853"
+    }
+  },
+  {
+    "endTime" : "2025-06-05T19:41:00.032+02:00",
+    "startTime" : "2025-06-05T18:26:38.031+02:00",
+    "activity" : {
+      "probability" : "0.969270",
+      "end" : "geo:46.127540,11.118599",
+      "topCandidate" : {
+        "type" : "in passenger vehicle",
+        "probability" : "0.933927"
+      },
+      "distanceMeters" : "10836.168945",
+      "start" : "geo:46.058585,11.109511"
+    }
+  },
+  {
+    "endTime" : "2025-06-05T19:52:41.840+02:00",
+    "startTime" : "2025-06-05T19:41:00.032+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.464705",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJ-6hIh3V6gkcR_P4nLWeTUSs",
+        "placeLocation" : "geo:46.128357,11.119865"
+      },
+      "probability" : "0.970712"
+    }
+  },
+  {
+    "endTime" : "2025-06-05T20:32:29.086+02:00",
+    "startTime" : "2025-06-05T19:52:41.840+02:00",
+    "activity" : {
+      "probability" : "0.917186",
+      "end" : "geo:46.009015,11.311981",
+      "topCandidate" : {
+        "type" : "in passenger vehicle",
+        "probability" : "0.806264"
+      },
+      "distanceMeters" : "23506.964844",
+      "start" : "geo:46.128208,11.119426"
+    }
+  },
+  {
+    "endTime" : "2025-06-06T10:27:37.116+02:00",
+    "startTime" : "2025-06-05T20:32:29.086+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.217633",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJ-7fqKLaeeEcRJL_KlBBjY_s",
+        "placeLocation" : "geo:46.014885,11.291666"
+      },
+      "probability" : "0.486119"
+    }
+  },
+  {
+    "endTime" : "2025-06-06T10:32:41.562+02:00",
+    "startTime" : "2025-06-06T10:27:37.116+02:00",
+    "activity" : {
+      "probability" : "0.773150",
+      "end" : "geo:46.011776,11.302126",
+      "topCandidate" : {
+        "type" : "walking",
+        "probability" : "0.655132"
+      },
+      "distanceMeters" : "68.127678",
+      "start" : "geo:46.011956,11.302969"
+    }
+  },
+  {
+    "endTime" : "2025-06-06T12:01:22.278+02:00",
+    "startTime" : "2025-06-06T10:32:41.562+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.181835",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJjbo6-TSZeEcRN6sOQcAqZH0",
+        "placeLocation" : "geo:46.011314,11.301301"
+      },
+      "probability" : "0.629198"
+    }
+  },
+  {
+    "endTime" : "2025-06-06T12:07:51.804+02:00",
+    "startTime" : "2025-06-06T12:01:22.278+02:00",
+    "activity" : {
+      "probability" : "0.693995",
+      "end" : "geo:46.010287,11.301230",
+      "topCandidate" : {
+        "type" : "walking",
+        "probability" : "0.313765"
+      },
+      "distanceMeters" : "179.483459",
+      "start" : "geo:46.011587,11.302608"
+    }
+  },
+  {
+    "endTime" : "2025-06-06T12:40:29.848+02:00",
+    "startTime" : "2025-06-06T12:07:51.804+02:00",
+    "activity" : {
+      "probability" : "0.866494",
+      "end" : "geo:46.008693,11.314435",
+      "topCandidate" : {
+        "type" : "in passenger vehicle",
+        "probability" : "0.399015"
+      },
+      "distanceMeters" : "994.847534",
+      "start" : "geo:46.012750,11.305275"
+    }
+  },
+  {
+    "endTime" : "2025-06-06T12:45:42.167+02:00",
+    "startTime" : "2025-06-06T12:40:29.848+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.405285",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJ051f4DiZeEcR2hFQRfSbyjw",
+        "placeLocation" : "geo:46.008579,11.314564"
+      },
+      "probability" : "0.512665"
+    }
+  },
+  {
+    "endTime" : "2025-06-06T13:00:30.103+02:00",
+    "startTime" : "2025-06-06T12:45:42.167+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.196984",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJ1dBt0LCZeEcRrzo5Og68OnE",
+        "placeLocation" : "geo:46.009805,11.305589"
+      },
+      "probability" : "0.537523"
+    }
+  },
+  {
+    "endTime" : "2025-06-06T13:12:58.893+02:00",
+    "startTime" : "2025-06-06T13:00:30.103+02:00",
+    "activity" : {
+      "probability" : "0.976730",
+      "end" : "geo:46.014495,11.292443",
+      "topCandidate" : {
+        "type" : "in passenger vehicle",
+        "probability" : "0.737213"
+      },
+      "distanceMeters" : "2456.127686",
+      "start" : "geo:46.009109,11.306769"
+    }
+  },
+  {
+    "endTime" : "2025-06-06T14:58:14.853+02:00",
+    "startTime" : "2025-06-06T13:12:58.893+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.205072",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJ-7fqKLaeeEcRJL_KlBBjY_s",
+        "placeLocation" : "geo:46.014885,11.291666"
+      },
+      "probability" : "0.774064"
+    }
+  },
+  {
+    "endTime" : "2025-06-06T14:59:59.285+02:00",
+    "startTime" : "2025-06-06T14:58:14.853+02:00",
+    "activity" : {
+      "probability" : "0.934748",
+      "end" : "geo:46.014712,11.298858",
+      "topCandidate" : {
+        "type" : "in passenger vehicle",
+        "probability" : "0.477475"
+      },
+      "distanceMeters" : "540.731506",
+      "start" : "geo:46.015690,11.292469"
+    }
+  },
+  {
+    "endTime" : "2025-06-06T15:19:53.874+02:00",
+    "startTime" : "2025-06-06T14:59:59.285+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.484267",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJk80Iq0qZeEcRcNgnDHoMPMk",
+        "placeLocation" : "geo:46.014845,11.299104"
+      },
+      "probability" : "0.866587"
+    }
+  },
+  {
+    "endTime" : "2025-06-06T15:40:37.218+02:00",
+    "startTime" : "2025-06-06T15:19:53.874+02:00",
+    "activity" : {
+      "probability" : "0.961101",
+      "end" : "geo:46.012445,11.310063",
+      "topCandidate" : {
+        "type" : "walking",
+        "probability" : "0.403801"
+      },
+      "distanceMeters" : "891.640015",
+      "start" : "geo:46.014571,11.298930"
+    }
+  },
+  {
+    "endTime" : "2025-06-06T16:15:01.900+02:00",
+    "startTime" : "2025-06-06T15:40:37.218+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.579352",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJkbdOJgCZeEcRGdBmLwPpR2U",
+        "placeLocation" : "geo:46.012271,11.309760"
+      },
+      "probability" : "0.889338"
+    }
+  },
+  {
+    "endTime" : "2025-06-06T16:20:36.662+02:00",
+    "startTime" : "2025-06-06T16:15:01.900+02:00",
+    "activity" : {
+      "probability" : "0.899656",
+      "end" : "geo:46.009149,11.313848",
+      "topCandidate" : {
+        "type" : "in passenger vehicle",
+        "probability" : "0.395684"
+      },
+      "distanceMeters" : "461.703064",
+      "start" : "geo:46.012431,11.310186"
+    }
+  },
+  {
+    "endTime" : "2025-06-06T17:24:34.698+02:00",
+    "startTime" : "2025-06-06T16:20:36.662+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.247129",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJ051f4DiZeEcR2hFQRfSbyjw",
+        "placeLocation" : "geo:46.008579,11.314564"
+      },
+      "probability" : "0.941596"
+    }
+  },
+  {
+    "endTime" : "2025-06-06T17:30:37.649+02:00",
+    "startTime" : "2025-06-06T17:24:34.698+02:00",
+    "activity" : {
+      "probability" : "0.988537",
+      "end" : "geo:46.014648,11.292119",
+      "topCandidate" : {
+        "type" : "in passenger vehicle",
+        "probability" : "0.801574"
+      },
+      "distanceMeters" : "1762.524170",
+      "start" : "geo:46.009006,11.311942"
+    }
+  },
+  {
+    "endTime" : "2025-06-06T21:48:44.348+02:00",
+    "startTime" : "2025-06-06T17:30:37.649+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.220369",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJ-7fqKLaeeEcRJL_KlBBjY_s",
+        "placeLocation" : "geo:46.014885,11.291666"
+      },
+      "probability" : "0.945399"
+    }
+  },
+  {
+    "endTime" : "2025-06-06T21:52:46.882+02:00",
+    "startTime" : "2025-06-06T21:48:44.348+02:00",
+    "activity" : {
+      "probability" : "0.994333",
+      "end" : "geo:46.008925,11.313850",
+      "topCandidate" : {
+        "type" : "in passenger vehicle",
+        "probability" : "0.900312"
+      },
+      "distanceMeters" : "1668.856323",
+      "start" : "geo:46.013329,11.295213"
+    }
+  },
+  {
+    "endTime" : "2025-06-06T22:49:14.074+02:00",
+    "startTime" : "2025-06-06T21:52:46.882+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.468418",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJ051f4DiZeEcR2hFQRfSbyjw",
+        "placeLocation" : "geo:46.008579,11.314564"
+      },
+      "probability" : "0.978281"
+    }
+  },
+  {
+    "endTime" : "2025-06-06T22:53:47.898+02:00",
+    "startTime" : "2025-06-06T22:49:14.074+02:00",
+    "activity" : {
+      "probability" : "0.977735",
+      "end" : "geo:46.014903,11.291748",
+      "topCandidate" : {
+        "type" : "in passenger vehicle",
+        "probability" : "0.844406"
+      },
+      "distanceMeters" : "1770.013428",
+      "start" : "geo:46.008986,11.310503"
+    }
+  },
+  {
+    "endTime" : "2025-06-07T09:41:34.027+02:00",
+    "startTime" : "2025-06-06T22:53:47.898+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.283086",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJ-7fqKLaeeEcRJL_KlBBjY_s",
+        "placeLocation" : "geo:46.014885,11.291666"
+      },
+      "probability" : "0.956309"
+    }
+  },
+  {
+    "endTime" : "2025-06-07T10:13:29.794+02:00",
+    "startTime" : "2025-06-07T09:41:34.027+02:00",
+    "activity" : {
+      "probability" : "0.984547",
+      "end" : "geo:46.050129,11.491850",
+      "topCandidate" : {
+        "type" : "in passenger vehicle",
+        "probability" : "0.824711"
+      },
+      "distanceMeters" : "15599.735352",
+      "start" : "geo:46.008210,11.306860"
+    }
+  },
+  {
+    "endTime" : "2025-06-07T11:12:54.274+02:00",
+    "startTime" : "2025-06-07T10:13:29.794+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.709386",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJ79o_yXWReEcRSwXVtllBQJw",
+        "placeLocation" : "geo:46.050293,11.492620"
+      },
+      "probability" : "0.600839"
+    }
+  },
+  {
+    "endTime" : "2025-06-07T11:18:04.000+02:00",
+    "startTime" : "2025-06-07T11:12:54.274+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.862318",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJKUpj7sCReEcRZGW_lHG7i4w",
+        "placeLocation" : "geo:46.055189,11.473201"
+      },
+      "probability" : "0.849786"
+    }
+  },
+  {
+    "endTime" : "2025-06-07T11:17:54.712+02:00",
+    "startTime" : "2025-06-07T11:12:54.274+02:00",
+    "visit" : {
+      "hierarchyLevel" : "1",
+      "topCandidate" : {
+        "probability" : "0.818400",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJKVOBz6mReEcRm7hEKrZQuu0",
+        "placeLocation" : "geo:46.055312,11.473359"
+      },
+      "probability" : "0.849786"
+    }
+  },
+  {
+    "endTime" : "2025-06-07T11:36:33.000+02:00",
+    "startTime" : "2025-06-07T11:18:04.000+02:00",
+    "activity" : {
+      "probability" : "0.976315",
+      "end" : "geo:46.014874,11.291781",
+      "topCandidate" : {
+        "type" : "in passenger vehicle",
+        "probability" : "0.889242"
+      },
+      "distanceMeters" : "15282.687500",
+      "start" : "geo:46.055975,11.474818"
+    }
+  },
+  {
+    "endTime" : "2025-06-07T12:27:08.795+02:00",
+    "startTime" : "2025-06-07T11:36:33.000+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.402990",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJ-7fqKLaeeEcRJL_KlBBjY_s",
+        "placeLocation" : "geo:46.014885,11.291666"
+      },
+      "probability" : "0.981353"
+    }
+  },
+  {
+    "endTime" : "2025-06-07T12:30:46.606+02:00",
+    "startTime" : "2025-06-07T12:27:08.795+02:00",
+    "activity" : {
+      "probability" : "0.985925",
+      "end" : "geo:46.008903,11.313786",
+      "topCandidate" : {
+        "type" : "in passenger vehicle",
+        "probability" : "0.884006"
+      },
+      "distanceMeters" : "1915.777344",
+      "start" : "geo:46.014631,11.292547"
+    }
+  },
+  {
+    "endTime" : "2025-06-07T14:49:01.974+02:00",
+    "startTime" : "2025-06-07T12:30:46.606+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.501517",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJ051f4DiZeEcR2hFQRfSbyjw",
+        "placeLocation" : "geo:46.008579,11.314564"
+      },
+      "probability" : "0.931258"
+    }
+  },
+  {
+    "endTime" : "2025-06-07T14:52:35.091+02:00",
+    "startTime" : "2025-06-07T14:49:01.974+02:00",
+    "activity" : {
+      "probability" : "0.989435",
+      "end" : "geo:46.014891,11.291720",
+      "topCandidate" : {
+        "type" : "in passenger vehicle",
+        "probability" : "0.813138"
+      },
+      "distanceMeters" : "1595.692871",
+      "start" : "geo:46.008111,11.309154"
+    }
+  },
+  {
+    "endTime" : "2025-06-07T15:30:46.311+02:00",
+    "startTime" : "2025-06-07T14:52:35.091+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.335901",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJ-7fqKLaeeEcRJL_KlBBjY_s",
+        "placeLocation" : "geo:46.014885,11.291666"
+      },
+      "probability" : "0.923507"
+    }
+  },
+  {
+    "endTime" : "2025-06-07T15:54:18.629+02:00",
+    "startTime" : "2025-06-07T15:30:46.311+02:00",
+    "activity" : {
+      "probability" : "0.987397",
+      "end" : "geo:46.072333,11.120165",
+      "topCandidate" : {
+        "type" : "in passenger vehicle",
+        "probability" : "0.792717"
+      },
+      "distanceMeters" : "19436.824219",
+      "start" : "geo:46.013415,11.288282"
+    }
+  },
+  {
+    "endTime" : "2025-06-07T16:21:14.808+02:00",
+    "startTime" : "2025-06-07T15:54:18.629+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.759729",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJTWHC1DVxgkcREoszLmvUGTs",
+        "placeLocation" : "geo:46.072150,11.119361"
+      },
+      "probability" : "0.976429"
+    }
+  },
+  {
+    "endTime" : "2025-06-07T17:02:53.484+02:00",
+    "startTime" : "2025-06-07T16:21:14.808+02:00",
+    "activity" : {
+      "probability" : "0.994874",
+      "end" : "geo:45.891141,11.034262",
+      "topCandidate" : {
+        "type" : "in train",
+        "probability" : "0.884994"
+      },
+      "distanceMeters" : "21984.535156",
+      "start" : "geo:46.072087,11.119132"
+    }
+  },
+  {
+    "endTime" : "2025-06-07T17:12:51.765+02:00",
+    "startTime" : "2025-06-07T17:02:53.484+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.903932",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJr841KrwOgkcRR6WzIlu6kFI",
+        "placeLocation" : "geo:45.891006,11.034016"
+      },
+      "probability" : "0.986407"
+    }
+  },
+  {
+    "endTime" : "2025-06-07T18:08:07.249+02:00",
+    "startTime" : "2025-06-07T17:12:51.765+02:00",
+    "activity" : {
+      "probability" : "0.992377",
+      "end" : "geo:45.416091,10.992387",
+      "topCandidate" : {
+        "type" : "in passenger vehicle",
+        "probability" : "0.966967"
+      },
+      "distanceMeters" : "62719.332031",
+      "start" : "geo:45.829229,11.003044"
+    }
+  },
+  {
+    "endTime" : "2025-06-07T21:30:00.996+02:00",
+    "startTime" : "2025-06-07T18:08:07.249+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.802056",
+        "semanticType" : "Searched Address",
+        "placeID" : "ChIJBa_iXQtff0cR6DLWpALLdSk",
+        "placeLocation" : "geo:45.416139,10.992505"
+      },
+      "probability" : "0.962200"
+    }
+  },
+  {
+    "endTime" : "2025-06-07T21:31:35.000+02:00",
+    "startTime" : "2025-06-07T21:30:00.996+02:00",
+    "activity" : {
+      "probability" : "0.972812",
+      "end" : "geo:45.412785,10.998684",
+      "topCandidate" : {
+        "type" : "in passenger vehicle",
+        "probability" : "0.923422"
+      },
+      "distanceMeters" : "509.930389",
+      "start" : "geo:45.415351,10.993269"
+    }
+  },
+  {
+    "endTime" : "2025-06-07T22:25:46.000+02:00",
+    "startTime" : "2025-06-07T21:31:35.000+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.653798",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJCZ11Uwhff0cRZJobeQ_S55I",
+        "placeLocation" : "geo:45.412769,10.999821"
+      },
+      "probability" : "0.966843"
+    }
+  },
+  {
+    "endTime" : "2025-06-07T22:31:09.405+02:00",
+    "startTime" : "2025-06-07T22:25:46.000+02:00",
+    "activity" : {
+      "probability" : "0.987895",
+      "end" : "geo:45.396839,11.016618",
+      "topCandidate" : {
+        "type" : "in passenger vehicle",
+        "probability" : "0.941172"
+      },
+      "distanceMeters" : "2357.994141",
+      "start" : "geo:45.411804,11.000777"
+    }
+  },
+  {
+    "endTime" : "2025-06-08T00:53:12.182+02:00",
+    "startTime" : "2025-06-07T22:31:09.405+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.762167",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJ0dCB5E5ef0cReRuY3pYhyy8",
+        "placeLocation" : "geo:45.396868,11.016409"
+      },
+      "probability" : "0.991064"
+    }
+  },
+  {
+    "endTime" : "2025-06-08T01:01:14.524+02:00",
+    "startTime" : "2025-06-08T00:53:12.182+02:00",
+    "activity" : {
+      "probability" : "0.997290",
+      "end" : "geo:45.415906,10.992580",
+      "topCandidate" : {
+        "type" : "in passenger vehicle",
+        "probability" : "0.929973"
+      },
+      "distanceMeters" : "2813.464600",
+      "start" : "geo:45.396600,11.015614"
+    }
+  },
+  {
+    "endTime" : "2025-06-11T08:25:47.311+02:00",
+    "startTime" : "2025-06-08T01:01:14.524+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.644328",
+        "semanticType" : "Searched Address",
+        "placeID" : "ChIJBa_iXQtff0cR6DLWpALLdSk",
+        "placeLocation" : "geo:45.416139,10.992505"
+      },
+      "probability" : "0.828586"
+    }
+  },
+  {
+    "endTime" : "2025-06-11T08:45:15.486+02:00",
+    "startTime" : "2025-06-11T08:25:47.311+02:00",
+    "activity" : {
+      "probability" : "0.998106",
+      "end" : "geo:45.436071,11.004076",
+      "topCandidate" : {
+        "type" : "in passenger vehicle",
+        "probability" : "0.545246"
+      },
+      "distanceMeters" : "2785.208984",
+      "start" : "geo:45.417397,10.990847"
+    }
+  },
+  {
+    "endTime" : "2025-06-11T12:06:04.811+02:00",
+    "startTime" : "2025-06-11T08:45:15.486+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.273922",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJQwbavtRef0cRsJkJFCtD5L4",
+        "placeLocation" : "geo:45.436501,11.003220"
+      },
+      "probability" : "0.741391"
+    }
+  },
+  {
+    "endTime" : "2025-06-11T13:04:06.558+02:00",
+    "startTime" : "2025-06-11T12:06:04.811+02:00",
+    "activity" : {
+      "probability" : "0.529912",
+      "end" : "geo:45.435746,10.999570",
+      "topCandidate" : {
+        "type" : "walking",
+        "probability" : "0.501980"
+      },
+      "distanceMeters" : "492.794861",
+      "start" : "geo:45.437222,11.001898"
+    }
+  },
+  {
+    "endTime" : "2025-06-11T18:39:45.544+02:00",
+    "startTime" : "2025-06-11T13:04:06.558+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.417881",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJL1ZQTCVff0cR8tJWVz3O0wQ",
+        "placeLocation" : "geo:45.439045,11.011456"
+      },
+      "probability" : "0.789521"
+    }
+  },
+  {
+    "endTime" : "2025-06-11T18:46:31.870+02:00",
+    "startTime" : "2025-06-11T18:39:45.544+02:00",
+    "activity" : {
+      "probability" : "0.959357",
+      "end" : "geo:45.439658,11.015877",
+      "topCandidate" : {
+        "type" : "walking",
+        "probability" : "0.536726"
+      },
+      "distanceMeters" : "361.349030",
+      "start" : "geo:45.438920,11.011429"
+    }
+  },
+  {
+    "endTime" : "2025-06-11T19:02:11.999+02:00",
+    "startTime" : "2025-06-11T18:46:31.870+02:00",
+    "activity" : {
+      "probability" : "0.997112",
+      "end" : "geo:45.416051,10.992026",
+      "topCandidate" : {
+        "type" : "in bus",
+        "probability" : "0.817477"
+      },
+      "distanceMeters" : "3952.774658",
+      "start" : "geo:45.439658,11.015877"
+    }
+  },
+  {
+    "endTime" : "2025-06-11T19:09:26.562+02:00",
+    "startTime" : "2025-06-11T19:02:11.999+02:00",
+    "activity" : {
+      "probability" : "0.873517",
+      "end" : "geo:45.415072,10.993638",
+      "topCandidate" : {
+        "type" : "walking",
+        "probability" : "0.671758"
+      },
+      "distanceMeters" : "168.792770",
+      "start" : "geo:45.416051,10.992026"
+    }
+  },
+  {
+    "endTime" : "2025-06-11T19:27:23.824+02:00",
+    "startTime" : "2025-06-11T19:09:26.562+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.809736",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJT90JuAtff0cRsTTO45kNnMQ",
+        "placeLocation" : "geo:45.414355,10.994808"
+      },
+      "probability" : "0.734970"
+    }
+  },
+  {
+    "endTime" : "2025-06-11T22:00:59.031+02:00",
+    "startTime" : "2025-06-11T19:27:23.824+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.602829",
+        "semanticType" : "Searched Address",
+        "placeID" : "ChIJBa_iXQtff0cR6DLWpALLdSk",
+        "placeLocation" : "geo:45.416139,10.992505"
+      },
+      "probability" : "0.615164"
+    }
+  },
+  {
+    "endTime" : "2025-06-11T22:02:22.019+02:00",
+    "startTime" : "2025-06-11T22:00:59.031+02:00",
+    "activity" : {
+      "probability" : "0.826570",
+      "end" : "geo:45.414854,10.991806",
+      "topCandidate" : {
+        "type" : "walking",
+        "probability" : "0.432591"
+      },
+      "distanceMeters" : "94.189148",
+      "start" : "geo:45.415664,10.992157"
+    }
+  },
+  {
+    "endTime" : "2025-06-11T22:12:23.587+02:00",
+    "startTime" : "2025-06-11T22:02:22.019+02:00",
+    "activity" : {
+      "probability" : "0.981396",
+      "end" : "geo:45.435277,10.985353",
+      "topCandidate" : {
+        "type" : "in passenger vehicle",
+        "probability" : "0.900242"
+      },
+      "distanceMeters" : "2953.114746",
+      "start" : "geo:45.414854,10.991806"
+    }
+  },
+  {
+    "endTime" : "2025-06-11T23:02:30.804+02:00",
+    "startTime" : "2025-06-11T22:12:23.587+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.681850",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJdwWd7Fxff0cR5dhmS1LaLWg",
+        "placeLocation" : "geo:45.434864,10.984772"
+      },
+      "probability" : "0.974643"
+    }
+  },
+  {
+    "endTime" : "2025-06-11T23:08:06.430+02:00",
+    "startTime" : "2025-06-11T23:02:30.804+02:00",
+    "activity" : {
+      "probability" : "0.981233",
+      "end" : "geo:45.416328,10.991913",
+      "topCandidate" : {
+        "type" : "in passenger vehicle",
+        "probability" : "0.848687"
+      },
+      "distanceMeters" : "2250.663574",
+      "start" : "geo:45.432900,10.984401"
+    }
+  },
+  {
+    "endTime" : "2025-06-12T10:57:13.058+02:00",
+    "startTime" : "2025-06-11T23:08:06.430+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.833039",
+        "semanticType" : "Searched Address",
+        "placeID" : "ChIJBa_iXQtff0cR6DLWpALLdSk",
+        "placeLocation" : "geo:45.416139,10.992505"
+      },
+      "probability" : "0.838064"
+    }
+  },
+  {
+    "endTime" : "2025-06-12T11:01:10.474+02:00",
+    "startTime" : "2025-06-12T10:57:13.058+02:00",
+    "activity" : {
+      "probability" : "0.929659",
+      "end" : "geo:45.414824,10.993779",
+      "topCandidate" : {
+        "type" : "in passenger vehicle",
+        "probability" : "0.441474"
+      },
+      "distanceMeters" : "189.513931",
+      "start" : "geo:45.416205,10.992358"
+    }
+  },
+  {
+    "endTime" : "2025-06-12T11:13:11.873+02:00",
+    "startTime" : "2025-06-12T11:01:10.474+02:00",
+    "activity" : {
+      "probability" : "0.991316",
+      "end" : "geo:45.403998,10.997208",
+      "topCandidate" : {
+        "type" : "in bus",
+        "probability" : "0.820919"
+      },
+      "distanceMeters" : "1736.217773",
+      "start" : "geo:45.414824,10.993779"
+    }
+  },
+  {
+    "endTime" : "2025-06-12T17:20:07.936+02:00",
+    "startTime" : "2025-06-12T11:13:11.873+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.456397",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJienwPqVff0cRA7KQOk7iNuA",
+        "placeLocation" : "geo:45.402797,10.996219"
+      },
+      "probability" : "0.857530"
+    }
+  },
+  {
+    "endTime" : "2025-06-12T13:44:42.076+02:00",
+    "startTime" : "2025-06-12T11:13:11.873+02:00",
+    "visit" : {
+      "hierarchyLevel" : "1",
+      "topCandidate" : {
+        "probability" : "0.562207",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJaxZADaVff0cRAq8OysDWeeY",
+        "placeLocation" : "geo:45.403614,10.996685"
+      },
+      "probability" : "0.857530"
+    }
+  },
+  {
+    "endTime" : "2025-06-12T17:20:07.936+02:00",
+    "startTime" : "2025-06-12T13:58:46.008+02:00",
+    "visit" : {
+      "hierarchyLevel" : "1",
+      "topCandidate" : {
+        "probability" : "0.521329",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJmZuD77Bff0cRhsj_RPEUYsI",
+        "placeLocation" : "geo:45.402943,10.996095"
+      },
+      "probability" : "0.857530"
+    }
+  },
+  {
+    "endTime" : "2025-06-12T17:32:17.060+02:00",
+    "startTime" : "2025-06-12T17:20:07.936+02:00",
+    "activity" : {
+      "probability" : "0.993364",
+      "end" : "geo:45.415378,10.992872",
+      "topCandidate" : {
+        "type" : "in passenger vehicle",
+        "probability" : "0.867055"
+      },
+      "distanceMeters" : "1535.678101",
+      "start" : "geo:45.404325,10.996799"
+    }
+  },
+  {
+    "endTime" : "2025-06-12T17:33:58.999+02:00",
+    "startTime" : "2025-06-12T17:32:17.060+02:00",
+    "activity" : {
+      "probability" : "0.922030",
+      "end" : "geo:45.416075,10.992820",
+      "topCandidate" : {
+        "type" : "walking",
+        "probability" : "0.586127"
+      },
+      "distanceMeters" : "98.953674",
+      "start" : "geo:45.415378,10.992872"
+    }
+  },
+  {
+    "endTime" : "2025-06-13T09:57:21.218+02:00",
+    "startTime" : "2025-06-12T17:33:58.999+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.716981",
+        "semanticType" : "Searched Address",
+        "placeID" : "ChIJBa_iXQtff0cR6DLWpALLdSk",
+        "placeLocation" : "geo:45.416139,10.992505"
+      },
+      "probability" : "0.869567"
+    }
+  },
+  {
+    "endTime" : "2025-06-13T10:09:28.000+02:00",
+    "startTime" : "2025-06-13T09:57:21.218+02:00",
+    "activity" : {
+      "probability" : "0.995718",
+      "end" : "geo:45.404185,10.997910",
+      "topCandidate" : {
+        "type" : "in passenger vehicle",
+        "probability" : "0.537792"
+      },
+      "distanceMeters" : "1491.859985",
+      "start" : "geo:45.414910,10.993648"
+    }
+  },
+  {
+    "endTime" : "2025-06-13T10:10:35.041+02:00",
+    "startTime" : "2025-06-13T10:09:28.000+02:00",
+    "activity" : {
+      "probability" : "0.905303",
+      "end" : "geo:45.403783,10.996689",
+      "topCandidate" : {
+        "type" : "in bus",
+        "probability" : "0.433304"
+      },
+      "distanceMeters" : "105.315002",
+      "start" : "geo:45.404185,10.997910"
+    }
+  },
+  {
+    "endTime" : "2025-06-13T19:39:31.999+02:00",
+    "startTime" : "2025-06-13T10:10:35.041+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.564622",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJienwPqVff0cRA7KQOk7iNuA",
+        "placeLocation" : "geo:45.402797,10.996219"
+      },
+      "probability" : "0.899647"
+    }
+  },
+  {
+    "endTime" : "2025-06-13T19:39:31.999+02:00",
+    "startTime" : "2025-06-13T10:11:53.174+02:00",
+    "visit" : {
+      "hierarchyLevel" : "1",
+      "topCandidate" : {
+        "probability" : "0.569644",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJmZuD77Bff0cRhsj_RPEUYsI",
+        "placeLocation" : "geo:45.402943,10.996095"
+      },
+      "probability" : "0.899647"
+    }
+  },
+  {
+    "endTime" : "2025-06-13T19:59:24.115+02:00",
+    "startTime" : "2025-06-13T19:39:31.999+02:00",
+    "activity" : {
+      "probability" : "0.968723",
+      "end" : "geo:45.416081,10.992426",
+      "topCandidate" : {
+        "type" : "walking",
+        "probability" : "0.918040"
+      },
+      "distanceMeters" : "1457.799072",
+      "start" : "geo:45.404175,10.996343"
+    }
+  },
+  {
+    "endTime" : "2025-06-14T22:26:18.131+02:00",
+    "startTime" : "2025-06-13T19:59:24.115+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.621098",
+        "semanticType" : "Searched Address",
+        "placeID" : "ChIJBa_iXQtff0cR6DLWpALLdSk",
+        "placeLocation" : "geo:45.416139,10.992505"
+      },
+      "probability" : "0.721465"
+    }
+  },
+  {
+    "endTime" : "2025-06-14T23:02:42.677+02:00",
+    "startTime" : "2025-06-14T22:26:18.131+02:00",
+    "activity" : {
+      "probability" : "0.541616",
+      "end" : "geo:45.436512,11.004170",
+      "topCandidate" : {
+        "type" : "walking",
+        "probability" : "0.505898"
+      },
+      "distanceMeters" : "314.379059",
+      "start" : "geo:45.436652,11.004199"
+    }
+  },
+  {
+    "endTime" : "2025-06-14T23:30:02.000+02:00",
+    "startTime" : "2025-06-14T23:02:42.677+02:00",
+    "activity" : {
+      "probability" : "0.989172",
+      "end" : "geo:45.437582,10.993885",
+      "topCandidate" : {
+        "type" : "in passenger vehicle",
+        "probability" : "0.476661"
+      },
+      "distanceMeters" : "3382.037354",
+      "start" : "geo:45.439554,11.002186"
+    }
+  },
+  {
+    "endTime" : "2025-06-15T00:33:57.817+02:00",
+    "startTime" : "2025-06-14T23:30:02.000+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.616575",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJ-6S2dUZff0cR9fOf0ltELZc",
+        "placeLocation" : "geo:45.438996,10.994357"
+      },
+      "probability" : "0.790482"
+    }
+  },
+  {
+    "endTime" : "2025-06-15T00:49:10.999+02:00",
+    "startTime" : "2025-06-15T00:33:57.817+02:00",
+    "activity" : {
+      "probability" : "0.976391",
+      "end" : "geo:45.416103,10.992744",
+      "topCandidate" : {
+        "type" : "in passenger vehicle",
+        "probability" : "0.400468"
+      },
+      "distanceMeters" : "2905.796875",
+      "start" : "geo:45.437520,10.994205"
+    }
+  },
+  {
+    "endTime" : "2025-06-15T15:54:28.996+02:00",
+    "startTime" : "2025-06-15T00:49:10.999+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.717627",
+        "semanticType" : "Searched Address",
+        "placeID" : "ChIJBa_iXQtff0cR6DLWpALLdSk",
+        "placeLocation" : "geo:45.416139,10.992505"
+      },
+      "probability" : "0.821326"
+    }
+  },
+  {
+    "endTime" : "2025-06-15T16:02:16.686+02:00",
+    "startTime" : "2025-06-15T15:54:28.996+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.821783",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJT90JuAtff0cRsTTO45kNnMQ",
+        "placeLocation" : "geo:45.414355,10.994808"
+      },
+      "probability" : "0.518073"
+    }
+  },
+  {
+    "endTime" : "2025-06-15T16:13:52.961+02:00",
+    "startTime" : "2025-06-15T16:02:16.686+02:00",
+    "activity" : {
+      "probability" : "0.951848",
+      "end" : "geo:45.415870,10.992819",
+      "topCandidate" : {
+        "type" : "in passenger vehicle",
+        "probability" : "0.684172"
+      },
+      "distanceMeters" : "1987.473877",
+      "start" : "geo:45.414543,10.994442"
+    }
+  },
+  {
+    "endTime" : "2025-06-16T07:43:26.172+02:00",
+    "startTime" : "2025-06-15T16:13:52.961+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.667711",
+        "semanticType" : "Searched Address",
+        "placeID" : "ChIJBa_iXQtff0cR6DLWpALLdSk",
+        "placeLocation" : "geo:45.416139,10.992505"
+      },
+      "probability" : "0.549772"
+    }
+  },
+  {
+    "endTime" : "2025-06-16T07:52:11.497+02:00",
+    "startTime" : "2025-06-16T07:43:26.172+02:00",
+    "activity" : {
+      "probability" : "0.652872",
+      "end" : "geo:45.417316,10.990921",
+      "topCandidate" : {
+        "type" : "walking",
+        "probability" : "0.368608"
+      },
+      "distanceMeters" : "182.933533",
+      "start" : "geo:45.416012,10.992349"
+    }
+  },
+  {
+    "endTime" : "2025-06-16T08:05:50.556+02:00",
+    "startTime" : "2025-06-16T07:52:11.497+02:00",
+    "activity" : {
+      "probability" : "0.987360",
+      "end" : "geo:45.440115,11.015527",
+      "topCandidate" : {
+        "type" : "in passenger vehicle",
+        "probability" : "0.419373"
+      },
+      "distanceMeters" : "4074.065674",
+      "start" : "geo:45.417316,10.990921"
+    }
+  },
+  {
+    "endTime" : "2025-06-16T08:11:25.175+02:00",
+    "startTime" : "2025-06-16T08:05:50.556+02:00",
+    "activity" : {
+      "probability" : "0.955289",
+      "end" : "geo:45.439202,11.012191",
+      "topCandidate" : {
+        "type" : "walking",
+        "probability" : "0.580935"
+      },
+      "distanceMeters" : "365.625732",
+      "start" : "geo:45.440115,11.015527"
+    }
+  },
+  {
+    "endTime" : "2025-06-16T10:15:57.938+02:00",
+    "startTime" : "2025-06-16T08:11:25.175+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.469763",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJL1ZQTCVff0cR8tJWVz3O0wQ",
+        "placeLocation" : "geo:45.439045,11.011456"
+      },
+      "probability" : "0.907179"
+    }
+  },
+  {
+    "endTime" : "2025-06-16T10:44:32.622+02:00",
+    "startTime" : "2025-06-16T10:15:57.938+02:00",
+    "activity" : {
+      "probability" : "0.724161",
+      "end" : "geo:45.438364,11.004173",
+      "topCandidate" : {
+        "type" : "walking",
+        "probability" : "0.704998"
+      },
+      "distanceMeters" : "586.421326",
+      "start" : "geo:45.438501,11.004932"
+    }
+  },
+  {
+    "endTime" : "2025-06-16T12:30:13.382+02:00",
+    "startTime" : "2025-06-16T10:44:32.622+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.406487",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJAX8zejBff0cRYk2oD9K7f0I",
+        "placeLocation" : "geo:45.438868,11.009630"
+      },
+      "probability" : "0.768434"
+    }
+  },
+  {
+    "endTime" : "2025-06-16T12:42:06.672+02:00",
+    "startTime" : "2025-06-16T12:30:13.382+02:00",
+    "activity" : {
+      "probability" : "0.560773",
+      "end" : "geo:45.439698,11.015927",
+      "topCandidate" : {
+        "type" : "walking",
+        "probability" : "0.529231"
+      },
+      "distanceMeters" : "388.816528",
+      "start" : "geo:45.439089,11.011207"
+    }
+  },
+  {
+    "endTime" : "2025-06-16T13:05:01.591+02:00",
+    "startTime" : "2025-06-16T12:42:06.672+02:00",
+    "activity" : {
+      "probability" : "0.997040",
+      "end" : "geo:45.415976,10.991681",
+      "topCandidate" : {
+        "type" : "in bus",
+        "probability" : "0.893541"
+      },
+      "distanceMeters" : "3803.304688",
+      "start" : "geo:45.439698,11.015927"
+    }
+  },
+  {
+    "endTime" : "2025-06-16T16:55:11.669+02:00",
+    "startTime" : "2025-06-16T13:05:01.591+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.843243",
+        "semanticType" : "Searched Address",
+        "placeID" : "ChIJBa_iXQtff0cR6DLWpALLdSk",
+        "placeLocation" : "geo:45.416139,10.992505"
+      },
+      "probability" : "0.782041"
+    }
+  },
+  {
+    "endTime" : "2025-06-16T17:14:52.000+02:00",
+    "startTime" : "2025-06-16T16:55:11.669+02:00",
+    "activity" : {
+      "probability" : "0.957884",
+      "end" : "geo:45.413944,10.991208",
+      "topCandidate" : {
+        "type" : "walking",
+        "probability" : "0.834725"
+      },
+      "distanceMeters" : "266.972046",
+      "start" : "geo:45.416207,10.992350"
+    }
+  },
+  {
+    "endTime" : "2025-06-16T17:27:37.448+02:00",
+    "startTime" : "2025-06-16T17:14:52.000+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.252890",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJA8sXUXVff0cR70ZV3JHwHQ4",
+        "placeLocation" : "geo:45.412155,10.990354"
+      },
+      "probability" : "0.734912"
+    }
+  },
+  {
+    "endTime" : "2025-06-16T17:39:13.183+02:00",
+    "startTime" : "2025-06-16T17:27:37.448+02:00",
+    "activity" : {
+      "probability" : "0.997248",
+      "end" : "geo:45.430554,10.983377",
+      "topCandidate" : {
+        "type" : "in bus",
+        "probability" : "0.932427"
+      },
+      "distanceMeters" : "2147.854492",
+      "start" : "geo:45.412445,10.989078"
+    }
+  },
+  {
+    "endTime" : "2025-06-16T17:42:44.324+02:00",
+    "startTime" : "2025-06-16T17:39:13.183+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.889690",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJ_QkvSmZff0cRuTMq8WF2j1U",
+        "placeLocation" : "geo:45.429020,10.982498"
+      },
+      "probability" : "0.920227"
+    }
+  },
+  {
+    "endTime" : "2025-06-16T19:06:42.871+02:00",
+    "startTime" : "2025-06-16T17:42:44.324+02:00",
+    "activity" : {
+      "probability" : "0.981254",
+      "end" : "geo:46.072440,11.119741",
+      "topCandidate" : {
+        "type" : "in train",
+        "probability" : "0.889786"
+      },
+      "distanceMeters" : "75554.289062",
+      "start" : "geo:45.428351,10.982451"
+    }
+  },
+  {
+    "endTime" : "2025-06-16T19:16:08.985+02:00",
+    "startTime" : "2025-06-16T19:06:42.871+02:00",
+    "activity" : {
+      "probability" : "0.932794",
+      "end" : "geo:46.086282,11.118429",
+      "topCandidate" : {
+        "type" : "in bus",
+        "probability" : "0.496911"
+      },
+      "distanceMeters" : "2078.348633",
+      "start" : "geo:46.072440,11.119741"
+    }
+  },
+  {
+    "endTime" : "2025-06-16T19:33:37.473+02:00",
+    "startTime" : "2025-06-16T19:16:08.985+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.312920",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJ0YKMdABxgkcRlSZkIPImC_s",
+        "placeLocation" : "geo:46.087637,11.118561"
+      },
+      "probability" : "0.918551"
+    }
+  },
+  {
+    "endTime" : "2025-06-16T19:33:37.473+02:00",
+    "startTime" : "2025-06-16T19:22:29.483+02:00",
+    "visit" : {
+      "hierarchyLevel" : "1",
+      "topCandidate" : {
+        "probability" : "0.979335",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJu3Xz6SdxgkcRJWyWByUkCfI",
+        "placeLocation" : "geo:46.087544,11.118070"
+      },
+      "probability" : "0.918551"
+    }
+  },
+  {
+    "endTime" : "2025-06-16T19:53:59.292+02:00",
+    "startTime" : "2025-06-16T19:33:37.473+02:00",
+    "activity" : {
+      "probability" : "0.996002",
+      "end" : "geo:46.014710,11.292424",
+      "topCandidate" : {
+        "type" : "in passenger vehicle",
+        "probability" : "0.761700"
+      },
+      "distanceMeters" : "20209.787109",
+      "start" : "geo:46.087550,11.117834"
+    }
+  },
+  {
+    "endTime" : "2025-06-17T11:32:30.003+02:00",
+    "startTime" : "2025-06-16T19:53:59.292+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.365449",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJ-7fqKLaeeEcRJL_KlBBjY_s",
+        "placeLocation" : "geo:46.014885,11.291666"
+      },
+      "probability" : "0.768671"
+    }
+  },
+  {
+    "endTime" : "2025-06-17T11:59:37.035+02:00",
+    "startTime" : "2025-06-17T11:32:30.003+02:00",
+    "activity" : {
+      "probability" : "0.986817",
+      "end" : "geo:46.091138,11.107937",
+      "topCandidate" : {
+        "type" : "in passenger vehicle",
+        "probability" : "0.958373"
+      },
+      "distanceMeters" : "14756.328125",
+      "start" : "geo:46.055338,11.232724"
+    }
+  },
+  {
+    "endTime" : "2025-06-17T13:26:31.033+02:00",
+    "startTime" : "2025-06-17T11:59:37.035+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.367520",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJTYCSAOBwgkcRIMNsjewPYuc",
+        "placeLocation" : "geo:46.092073,11.107456"
+      },
+      "probability" : "0.988893"
+    }
+  },
+  {
+    "endTime" : "2025-06-17T13:37:51.322+02:00",
+    "startTime" : "2025-06-17T13:26:31.033+02:00",
+    "activity" : {
+      "probability" : "0.882659",
+      "end" : "geo:46.090441,11.117059",
+      "topCandidate" : {
+        "type" : "in passenger vehicle",
+        "probability" : "0.816615"
+      },
+      "distanceMeters" : "1422.793213",
+      "start" : "geo:46.091915,11.107108"
+    }
+  },
+  {
+    "endTime" : "2025-06-17T13:48:42.559+02:00",
+    "startTime" : "2025-06-17T13:37:51.322+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.911857",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJpf__iNhwgkcRgHBkEvV8_ik",
+        "placeLocation" : "geo:46.090667,11.117594"
+      },
+      "probability" : "0.977587"
+    }
+  },
+  {
+    "endTime" : "2025-06-17T13:48:42.559+02:00",
+    "startTime" : "2025-06-17T13:37:51.322+02:00",
+    "visit" : {
+      "hierarchyLevel" : "1",
+      "topCandidate" : {
+        "probability" : "0.265562",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJV1FxlthwgkcR16nXWfYiyNI",
+        "placeLocation" : "geo:46.090716,11.117332"
+      },
+      "probability" : "0.977587"
+    }
+  },
+  {
+    "endTime" : "2025-06-17T14:22:06.340+02:00",
+    "startTime" : "2025-06-17T13:48:42.559+02:00",
+    "activity" : {
+      "probability" : "0.962147",
+      "end" : "geo:46.014855,11.291609",
+      "topCandidate" : {
+        "type" : "in passenger vehicle",
+        "probability" : "0.867276"
+      },
+      "distanceMeters" : "17960.517578",
+      "start" : "geo:46.090544,11.117349"
+    }
+  },
+  {
+    "endTime" : "2025-06-17T16:09:17.337+02:00",
+    "startTime" : "2025-06-17T14:22:06.340+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.474998",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJ-7fqKLaeeEcRJL_KlBBjY_s",
+        "placeLocation" : "geo:46.014885,11.291666"
+      },
+      "probability" : "0.924751"
+    }
+  },
+  {
+    "endTime" : "2025-06-17T16:18:11.995+02:00",
+    "startTime" : "2025-06-17T16:09:17.337+02:00",
+    "activity" : {
+      "probability" : "0.703650",
+      "end" : "geo:46.011133,11.302625",
+      "topCandidate" : {
+        "type" : "in passenger vehicle",
+        "probability" : "0.431960"
+      },
+      "distanceMeters" : "327.264374",
+      "start" : "geo:46.009358,11.303941"
+    }
+  },
+  {
+    "endTime" : "2025-06-17T17:45:27.374+02:00",
+    "startTime" : "2025-06-17T16:18:11.995+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.249717",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJJ3lAJTSZeEcRY7tPMtE-5Ac",
+        "placeLocation" : "geo:46.011113,11.302610"
+      },
+      "probability" : "0.665003"
+    }
+  },
+  {
+    "endTime" : "2025-06-17T17:57:36.878+02:00",
+    "startTime" : "2025-06-17T17:45:27.374+02:00",
+    "activity" : {
+      "probability" : "0.821320",
+      "end" : "geo:46.009266,11.300915",
+      "topCandidate" : {
+        "type" : "in passenger vehicle",
+        "probability" : "0.383478"
+      },
+      "distanceMeters" : "391.742554",
+      "start" : "geo:46.010637,11.303503"
+    }
+  },
+  {
+    "endTime" : "2025-06-17T21:17:20.408+02:00",
+    "startTime" : "2025-06-17T17:57:36.878+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.095331",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJS1yE5MmeeEcRAvhpXbRqCc4",
+        "placeLocation" : "geo:46.014457,11.292478"
+      },
+      "probability" : "0.774220"
+    }
+  },
+  {
+    "endTime" : "2025-06-17T21:37:44.999+02:00",
+    "startTime" : "2025-06-17T21:17:20.408+02:00",
+    "activity" : {
+      "probability" : "0.944812",
+      "end" : "geo:46.000742,11.251705",
+      "topCandidate" : {
+        "type" : "in passenger vehicle",
+        "probability" : "0.724269"
+      },
+      "distanceMeters" : "5471.839844",
+      "start" : "geo:46.012811,11.298563"
+    }
+  },
+  {
+    "endTime" : "2025-06-17T23:05:13.013+02:00",
+    "startTime" : "2025-06-17T21:37:44.999+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.597884",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJReo8NPyeeEcR3Di_IcQyYKQ",
+        "placeLocation" : "geo:46.001685,11.253001"
+      },
+      "probability" : "0.897540"
+    }
+  },
+  {
+    "endTime" : "2025-06-17T23:21:12.797+02:00",
+    "startTime" : "2025-06-17T23:05:13.013+02:00",
+    "activity" : {
+      "probability" : "0.950242",
+      "end" : "geo:46.014912,11.291886",
+      "topCandidate" : {
+        "type" : "in passenger vehicle",
+        "probability" : "0.752622"
+      },
+      "distanceMeters" : "4563.419922",
+      "start" : "geo:46.001597,11.251926"
+    }
+  },
+  {
+    "endTime" : "2025-06-18T10:03:35.999+02:00",
+    "startTime" : "2025-06-17T23:21:12.797+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.228794",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJ-7fqKLaeeEcRJL_KlBBjY_s",
+        "placeLocation" : "geo:46.014885,11.291666"
+      },
+      "probability" : "0.930129"
+    }
+  },
+  {
+    "endTime" : "2025-06-18T10:30:02.536+02:00",
+    "startTime" : "2025-06-18T10:03:35.999+02:00",
+    "activity" : {
+      "probability" : "0.976361",
+      "end" : "geo:46.051158,11.470187",
+      "topCandidate" : {
+        "type" : "in passenger vehicle",
+        "probability" : "0.884942"
+      },
+      "distanceMeters" : "14748.082031",
+      "start" : "geo:46.013602,11.295018"
+    }
+  },
+  {
+    "endTime" : "2025-06-18T16:05:47.084+02:00",
+    "startTime" : "2025-06-18T10:30:02.536+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.607619",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJXVsZrAaReEcR4m1di-U8Zq4",
+        "placeLocation" : "geo:46.050562,11.468434"
+      },
+      "probability" : "0.925000"
+    }
+  },
+  {
+    "endTime" : "2025-06-18T15:43:56.231+02:00",
+    "startTime" : "2025-06-18T10:33:30.999+02:00",
+    "visit" : {
+      "hierarchyLevel" : "1",
+      "topCandidate" : {
+        "probability" : "0.999698",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJ7a1m8AGReEcR5qqymaedJWM",
+        "placeLocation" : "geo:46.050526,11.467159"
+      },
+      "probability" : "0.925000"
+    }
+  },
+  {
+    "endTime" : "2025-06-18T16:20:33.305+02:00",
+    "startTime" : "2025-06-18T16:05:47.084+02:00",
+    "activity" : {
+      "probability" : "0.996988",
+      "end" : "geo:46.009169,11.313592",
+      "topCandidate" : {
+        "type" : "in passenger vehicle",
+        "probability" : "0.878475"
+      },
+      "distanceMeters" : "13169.931641",
+      "start" : "geo:46.051310,11.469846"
+    }
+  },
+  {
+    "endTime" : "2025-06-18T16:25:29.747+02:00",
+    "startTime" : "2025-06-18T16:20:33.305+02:00",
+    "visit" : {
+      "hierarchyLevel" : "0",
+      "topCandidate" : {
+        "probability" : "0.271141",
+        "semanticType" : "Unknown",
+        "placeID" : "ChIJ051f4DiZeEcR2hFQRfSbyjw",
+        "placeLocation" : "geo:46.008579,11.314564"
+      },
+      "probability" : "0.589647"
+    }
+  },
+  {
+    "endTime" : "2025-06-18T16:32:49.475+02:00",
+    "startTime" : "2025-06-18T16:25:29.747+02:00",
+    "activity" : {
+      "probability" : "0.966287",
+      "end" : "geo:46.014786,11.291890",
+      "topCandidate" : {
+        "type" : "in passenger vehicle",
+        "probability" : "0.818321"
+      },
+      "distanceMeters" : "1812.047607",
+      "start" : "geo:46.009002,11.311959"
+    }
+  },
+  {
+    "endTime" : "2025-06-02T23:00:00.000Z",
+    "startTime" : "2025-06-02T21:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:45.416178,10.992203",
+        "durationMinutesOffsetFromStartTime" : "10"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-03T07:00:00.000Z",
+    "startTime" : "2025-06-03T05:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:45.416126,10.991999",
+        "durationMinutesOffsetFromStartTime" : "70"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-03T11:00:00.000Z",
+    "startTime" : "2025-06-03T09:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:45.437444,11.003985",
+        "durationMinutesOffsetFromStartTime" : "17"
+      },
+      {
+        "point" : "geo:45.437436,11.003118",
+        "durationMinutesOffsetFromStartTime" : "18"
+      },
+      {
+        "point" : "geo:45.436761,11.003302",
+        "durationMinutesOffsetFromStartTime" : "70"
+      },
+      {
+        "point" : "geo:45.435832,10.999947",
+        "durationMinutesOffsetFromStartTime" : "85"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-03T13:00:00.000Z",
+    "startTime" : "2025-06-03T11:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:45.435493,10.998602",
+        "durationMinutesOffsetFromStartTime" : "10"
+      },
+      {
+        "point" : "geo:45.429820,10.993990",
+        "durationMinutesOffsetFromStartTime" : "21"
+      },
+      {
+        "point" : "geo:45.427441,10.993375",
+        "durationMinutesOffsetFromStartTime" : "25"
+      },
+      {
+        "point" : "geo:45.426784,10.993260",
+        "durationMinutesOffsetFromStartTime" : "26"
+      },
+      {
+        "point" : "geo:45.425536,10.992375",
+        "durationMinutesOffsetFromStartTime" : "37"
+      },
+      {
+        "point" : "geo:45.419983,10.988224",
+        "durationMinutesOffsetFromStartTime" : "38"
+      },
+      {
+        "point" : "geo:45.415995,10.992194",
+        "durationMinutesOffsetFromStartTime" : "41"
+      },
+      {
+        "point" : "geo:45.416204,10.992361",
+        "durationMinutesOffsetFromStartTime" : "42"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-03T17:00:00.000Z",
+    "startTime" : "2025-06-03T15:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:45.416280,10.992316",
+        "durationMinutesOffsetFromStartTime" : "87"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-04T09:00:00.000Z",
+    "startTime" : "2025-06-04T07:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:45.416204,10.992361",
+        "durationMinutesOffsetFromStartTime" : "39"
+      },
+      {
+        "point" : "geo:45.408607,11.000127",
+        "durationMinutesOffsetFromStartTime" : "54"
+      },
+      {
+        "point" : "geo:45.403787,11.002334",
+        "durationMinutesOffsetFromStartTime" : "56"
+      },
+      {
+        "point" : "geo:45.404640,10.997958",
+        "durationMinutesOffsetFromStartTime" : "59"
+      },
+      {
+        "point" : "geo:45.404132,10.997615",
+        "durationMinutesOffsetFromStartTime" : "59"
+      },
+      {
+        "point" : "geo:45.403361,10.996261",
+        "durationMinutesOffsetFromStartTime" : "62"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-04T13:00:00.000Z",
+    "startTime" : "2025-06-04T11:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:45.403035,10.996119",
+        "durationMinutesOffsetFromStartTime" : "95"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-04T17:00:00.000Z",
+    "startTime" : "2025-06-04T15:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:45.403267,10.996704",
+        "durationMinutesOffsetFromStartTime" : "97"
+      },
+      {
+        "point" : "geo:45.404505,10.998727",
+        "durationMinutesOffsetFromStartTime" : "100"
+      },
+      {
+        "point" : "geo:45.403056,11.000688",
+        "durationMinutesOffsetFromStartTime" : "107"
+      },
+      {
+        "point" : "geo:45.406438,11.000768",
+        "durationMinutesOffsetFromStartTime" : "108"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-04T19:00:00.000Z",
+    "startTime" : "2025-06-04T17:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:45.408605,11.000426",
+        "durationMinutesOffsetFromStartTime" : "0"
+      },
+      {
+        "point" : "geo:45.412701,10.996454",
+        "durationMinutesOffsetFromStartTime" : "7"
+      },
+      {
+        "point" : "geo:45.415618,10.993053",
+        "durationMinutesOffsetFromStartTime" : "12"
+      },
+      {
+        "point" : "geo:45.416028,10.992423",
+        "durationMinutesOffsetFromStartTime" : "13"
+      },
+      {
+        "point" : "geo:45.416205,10.992358",
+        "durationMinutesOffsetFromStartTime" : "14"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-05T01:00:00.000Z",
+    "startTime" : "2025-06-04T23:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:45.416130,10.992340",
+        "durationMinutesOffsetFromStartTime" : "90"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-05T11:00:00.000Z",
+    "startTime" : "2025-06-05T09:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:45.413797,10.995289",
+        "durationMinutesOffsetFromStartTime" : "21"
+      },
+      {
+        "point" : "geo:45.410503,10.998259",
+        "durationMinutesOffsetFromStartTime" : "22"
+      },
+      {
+        "point" : "geo:45.407856,11.000447",
+        "durationMinutesOffsetFromStartTime" : "23"
+      },
+      {
+        "point" : "geo:45.406427,11.001008",
+        "durationMinutesOffsetFromStartTime" : "24"
+      },
+      {
+        "point" : "geo:45.404017,10.999481",
+        "durationMinutesOffsetFromStartTime" : "25"
+      },
+      {
+        "point" : "geo:45.404750,10.998667",
+        "durationMinutesOffsetFromStartTime" : "27"
+      },
+      {
+        "point" : "geo:45.404283,10.997410",
+        "durationMinutesOffsetFromStartTime" : "29"
+      },
+      {
+        "point" : "geo:45.403541,10.996374",
+        "durationMinutesOffsetFromStartTime" : "31"
+      },
+      {
+        "point" : "geo:45.403380,10.995905",
+        "durationMinutesOffsetFromStartTime" : "32"
+      },
+      {
+        "point" : "geo:45.402983,10.996142",
+        "durationMinutesOffsetFromStartTime" : "33"
+      },
+      {
+        "point" : "geo:45.403118,10.996038",
+        "durationMinutesOffsetFromStartTime" : "103"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-05T15:00:00.000Z",
+    "startTime" : "2025-06-05T13:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:45.403140,10.995961",
+        "durationMinutesOffsetFromStartTime" : "33"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-05T17:00:00.000Z",
+    "startTime" : "2025-06-05T15:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:45.402980,10.996396",
+        "durationMinutesOffsetFromStartTime" : "2"
+      },
+      {
+        "point" : "geo:45.403224,10.997157",
+        "durationMinutesOffsetFromStartTime" : "3"
+      },
+      {
+        "point" : "geo:45.404270,10.999413",
+        "durationMinutesOffsetFromStartTime" : "9"
+      },
+      {
+        "point" : "geo:45.404368,10.999340",
+        "durationMinutesOffsetFromStartTime" : "12"
+      },
+      {
+        "point" : "geo:45.403035,11.000472",
+        "durationMinutesOffsetFromStartTime" : "16"
+      },
+      {
+        "point" : "geo:45.403779,11.002463",
+        "durationMinutesOffsetFromStartTime" : "17"
+      },
+      {
+        "point" : "geo:45.407818,11.000607",
+        "durationMinutesOffsetFromStartTime" : "19"
+      },
+      {
+        "point" : "geo:45.412380,10.996798",
+        "durationMinutesOffsetFromStartTime" : "21"
+      },
+      {
+        "point" : "geo:45.414402,10.994480",
+        "durationMinutesOffsetFromStartTime" : "23"
+      },
+      {
+        "point" : "geo:45.415954,10.992287",
+        "durationMinutesOffsetFromStartTime" : "25"
+      },
+      {
+        "point" : "geo:45.415959,10.992382",
+        "durationMinutesOffsetFromStartTime" : "26"
+      },
+      {
+        "point" : "geo:45.416205,10.992358",
+        "durationMinutesOffsetFromStartTime" : "27"
+      },
+      {
+        "point" : "geo:45.415983,10.992720",
+        "durationMinutesOffsetFromStartTime" : "74"
+      },
+      {
+        "point" : "geo:45.415608,10.993089",
+        "durationMinutesOffsetFromStartTime" : "75"
+      },
+      {
+        "point" : "geo:45.416806,10.991477",
+        "durationMinutesOffsetFromStartTime" : "77"
+      },
+      {
+        "point" : "geo:45.418390,10.989518",
+        "durationMinutesOffsetFromStartTime" : "79"
+      },
+      {
+        "point" : "geo:45.419376,10.988225",
+        "durationMinutesOffsetFromStartTime" : "80"
+      },
+      {
+        "point" : "geo:45.422037,10.984924",
+        "durationMinutesOffsetFromStartTime" : "81"
+      },
+      {
+        "point" : "geo:45.422573,10.980983",
+        "durationMinutesOffsetFromStartTime" : "82"
+      },
+      {
+        "point" : "geo:45.422933,10.970012",
+        "durationMinutesOffsetFromStartTime" : "83"
+      },
+      {
+        "point" : "geo:45.423077,10.963738",
+        "durationMinutesOffsetFromStartTime" : "84"
+      },
+      {
+        "point" : "geo:45.423125,10.961853",
+        "durationMinutesOffsetFromStartTime" : "85"
+      },
+      {
+        "point" : "geo:45.423137,10.961410",
+        "durationMinutesOffsetFromStartTime" : "86"
+      },
+      {
+        "point" : "geo:45.423154,10.960848",
+        "durationMinutesOffsetFromStartTime" : "87"
+      },
+      {
+        "point" : "geo:45.423189,10.958890",
+        "durationMinutesOffsetFromStartTime" : "88"
+      },
+      {
+        "point" : "geo:45.425372,10.957009",
+        "durationMinutesOffsetFromStartTime" : "89"
+      },
+      {
+        "point" : "geo:45.427843,10.957612",
+        "durationMinutesOffsetFromStartTime" : "90"
+      },
+      {
+        "point" : "geo:45.431649,10.956006",
+        "durationMinutesOffsetFromStartTime" : "91"
+      },
+      {
+        "point" : "geo:45.430837,10.941374",
+        "durationMinutesOffsetFromStartTime" : "92"
+      },
+      {
+        "point" : "geo:45.430443,10.929382",
+        "durationMinutesOffsetFromStartTime" : "93"
+      },
+      {
+        "point" : "geo:45.429917,10.912491",
+        "durationMinutesOffsetFromStartTime" : "94"
+      },
+      {
+        "point" : "geo:45.433769,10.906548",
+        "durationMinutesOffsetFromStartTime" : "95"
+      },
+      {
+        "point" : "geo:45.433934,10.905620",
+        "durationMinutesOffsetFromStartTime" : "97"
+      },
+      {
+        "point" : "geo:45.447484,10.886541",
+        "durationMinutesOffsetFromStartTime" : "98"
+      },
+      {
+        "point" : "geo:45.453016,10.867029",
+        "durationMinutesOffsetFromStartTime" : "99"
+      },
+      {
+        "point" : "geo:45.460088,10.836684",
+        "durationMinutesOffsetFromStartTime" : "100"
+      },
+      {
+        "point" : "geo:45.468081,10.818889",
+        "durationMinutesOffsetFromStartTime" : "101"
+      },
+      {
+        "point" : "geo:45.482960,10.800354",
+        "durationMinutesOffsetFromStartTime" : "102"
+      },
+      {
+        "point" : "geo:45.494882,10.788362",
+        "durationMinutesOffsetFromStartTime" : "103"
+      },
+      {
+        "point" : "geo:45.513284,10.784659",
+        "durationMinutesOffsetFromStartTime" : "104"
+      },
+      {
+        "point" : "geo:45.535658,10.780157",
+        "durationMinutesOffsetFromStartTime" : "105"
+      },
+      {
+        "point" : "geo:45.547940,10.788718",
+        "durationMinutesOffsetFromStartTime" : "106"
+      },
+      {
+        "point" : "geo:45.559306,10.800626",
+        "durationMinutesOffsetFromStartTime" : "107"
+      },
+      {
+        "point" : "geo:45.573101,10.804251",
+        "durationMinutesOffsetFromStartTime" : "108"
+      },
+      {
+        "point" : "geo:45.580608,10.812982",
+        "durationMinutesOffsetFromStartTime" : "109"
+      },
+      {
+        "point" : "geo:45.584924,10.830518",
+        "durationMinutesOffsetFromStartTime" : "110"
+      },
+      {
+        "point" : "geo:45.596669,10.840402",
+        "durationMinutesOffsetFromStartTime" : "111"
+      },
+      {
+        "point" : "geo:45.609091,10.850671",
+        "durationMinutesOffsetFromStartTime" : "112"
+      },
+      {
+        "point" : "geo:45.626139,10.865646",
+        "durationMinutesOffsetFromStartTime" : "113"
+      },
+      {
+        "point" : "geo:45.638814,10.877011",
+        "durationMinutesOffsetFromStartTime" : "114"
+      },
+      {
+        "point" : "geo:45.651397,10.887728",
+        "durationMinutesOffsetFromStartTime" : "115"
+      },
+      {
+        "point" : "geo:45.671930,10.900205",
+        "durationMinutesOffsetFromStartTime" : "116"
+      },
+      {
+        "point" : "geo:45.690357,10.909346",
+        "durationMinutesOffsetFromStartTime" : "117"
+      },
+      {
+        "point" : "geo:45.701816,10.922605",
+        "durationMinutesOffsetFromStartTime" : "118"
+      },
+      {
+        "point" : "geo:45.719676,10.935074",
+        "durationMinutesOffsetFromStartTime" : "119"
+      },
+      {
+        "point" : "geo:45.724190,10.938175",
+        "durationMinutesOffsetFromStartTime" : "120"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-05T19:00:00.000Z",
+    "startTime" : "2025-06-05T17:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:45.731214,10.944626",
+        "durationMinutesOffsetFromStartTime" : "0"
+      },
+      {
+        "point" : "geo:45.740956,10.968797",
+        "durationMinutesOffsetFromStartTime" : "1"
+      },
+      {
+        "point" : "geo:45.748949,10.986443",
+        "durationMinutesOffsetFromStartTime" : "2"
+      },
+      {
+        "point" : "geo:45.762031,10.997212",
+        "durationMinutesOffsetFromStartTime" : "3"
+      },
+      {
+        "point" : "geo:45.777556,11.013818",
+        "durationMinutesOffsetFromStartTime" : "4"
+      },
+      {
+        "point" : "geo:45.791675,11.020614",
+        "durationMinutesOffsetFromStartTime" : "5"
+      },
+      {
+        "point" : "geo:45.805795,11.016028",
+        "durationMinutesOffsetFromStartTime" : "6"
+      },
+      {
+        "point" : "geo:45.818657,11.005806",
+        "durationMinutesOffsetFromStartTime" : "7"
+      },
+      {
+        "point" : "geo:45.832397,11.003037",
+        "durationMinutesOffsetFromStartTime" : "8"
+      },
+      {
+        "point" : "geo:45.841294,11.001848",
+        "durationMinutesOffsetFromStartTime" : "9"
+      },
+      {
+        "point" : "geo:45.854578,11.001414",
+        "durationMinutesOffsetFromStartTime" : "10"
+      },
+      {
+        "point" : "geo:45.873098,11.007862",
+        "durationMinutesOffsetFromStartTime" : "11"
+      },
+      {
+        "point" : "geo:45.887066,11.012624",
+        "durationMinutesOffsetFromStartTime" : "12"
+      },
+      {
+        "point" : "geo:45.903382,11.027856",
+        "durationMinutesOffsetFromStartTime" : "13"
+      },
+      {
+        "point" : "geo:45.916199,11.038852",
+        "durationMinutesOffsetFromStartTime" : "14"
+      },
+      {
+        "point" : "geo:45.925612,11.055176",
+        "durationMinutesOffsetFromStartTime" : "15"
+      },
+      {
+        "point" : "geo:45.926751,11.071847",
+        "durationMinutesOffsetFromStartTime" : "16"
+      },
+      {
+        "point" : "geo:45.947206,11.100590",
+        "durationMinutesOffsetFromStartTime" : "17"
+      },
+      {
+        "point" : "geo:45.961454,11.106172",
+        "durationMinutesOffsetFromStartTime" : "18"
+      },
+      {
+        "point" : "geo:45.980113,11.108793",
+        "durationMinutesOffsetFromStartTime" : "19"
+      },
+      {
+        "point" : "geo:45.998150,11.120559",
+        "durationMinutesOffsetFromStartTime" : "20"
+      },
+      {
+        "point" : "geo:46.017126,11.121963",
+        "durationMinutesOffsetFromStartTime" : "21"
+      },
+      {
+        "point" : "geo:46.035726,11.119830",
+        "durationMinutesOffsetFromStartTime" : "22"
+      },
+      {
+        "point" : "geo:46.053790,11.108885",
+        "durationMinutesOffsetFromStartTime" : "23"
+      },
+      {
+        "point" : "geo:46.067923,11.109028",
+        "durationMinutesOffsetFromStartTime" : "24"
+      },
+      {
+        "point" : "geo:46.085067,11.105036",
+        "durationMinutesOffsetFromStartTime" : "25"
+      },
+      {
+        "point" : "geo:46.102444,11.090929",
+        "durationMinutesOffsetFromStartTime" : "26"
+      },
+      {
+        "point" : "geo:46.116664,11.087064",
+        "durationMinutesOffsetFromStartTime" : "27"
+      },
+      {
+        "point" : "geo:46.117308,11.093162",
+        "durationMinutesOffsetFromStartTime" : "30"
+      },
+      {
+        "point" : "geo:46.118317,11.095858",
+        "durationMinutesOffsetFromStartTime" : "30"
+      },
+      {
+        "point" : "geo:46.118104,11.103865",
+        "durationMinutesOffsetFromStartTime" : "31"
+      },
+      {
+        "point" : "geo:46.115915,11.106328",
+        "durationMinutesOffsetFromStartTime" : "32"
+      },
+      {
+        "point" : "geo:46.117663,11.109873",
+        "durationMinutesOffsetFromStartTime" : "34"
+      },
+      {
+        "point" : "geo:46.128908,11.115580",
+        "durationMinutesOffsetFromStartTime" : "35"
+      },
+      {
+        "point" : "geo:46.126310,11.115817",
+        "durationMinutesOffsetFromStartTime" : "40"
+      },
+      {
+        "point" : "geo:46.127540,11.118599",
+        "durationMinutesOffsetFromStartTime" : "41"
+      },
+      {
+        "point" : "geo:46.128208,11.119426",
+        "durationMinutesOffsetFromStartTime" : "53"
+      },
+      {
+        "point" : "geo:46.129936,11.116257",
+        "durationMinutesOffsetFromStartTime" : "55"
+      },
+      {
+        "point" : "geo:46.123726,11.111876",
+        "durationMinutesOffsetFromStartTime" : "56"
+      },
+      {
+        "point" : "geo:46.118942,11.111299",
+        "durationMinutesOffsetFromStartTime" : "57"
+      },
+      {
+        "point" : "geo:46.116386,11.107673",
+        "durationMinutesOffsetFromStartTime" : "57"
+      },
+      {
+        "point" : "geo:46.113601,11.106857",
+        "durationMinutesOffsetFromStartTime" : "58"
+      },
+      {
+        "point" : "geo:46.096637,11.111401",
+        "durationMinutesOffsetFromStartTime" : "60"
+      },
+      {
+        "point" : "geo:46.094681,11.114366",
+        "durationMinutesOffsetFromStartTime" : "61"
+      },
+      {
+        "point" : "geo:46.096438,11.116676",
+        "durationMinutesOffsetFromStartTime" : "61"
+      },
+      {
+        "point" : "geo:46.095552,11.120536",
+        "durationMinutesOffsetFromStartTime" : "61"
+      },
+      {
+        "point" : "geo:46.091903,11.122192",
+        "durationMinutesOffsetFromStartTime" : "62"
+      },
+      {
+        "point" : "geo:46.018078,11.256417",
+        "durationMinutesOffsetFromStartTime" : "73"
+      },
+      {
+        "point" : "geo:46.008962,11.315521",
+        "durationMinutesOffsetFromStartTime" : "79"
+      },
+      {
+        "point" : "geo:46.009195,11.301182",
+        "durationMinutesOffsetFromStartTime" : "90"
+      },
+      {
+        "point" : "geo:46.012660,11.295705",
+        "durationMinutesOffsetFromStartTime" : "91"
+      },
+      {
+        "point" : "geo:46.014903,11.291744",
+        "durationMinutesOffsetFromStartTime" : "92"
+      },
+      {
+        "point" : "geo:46.014885,11.291769",
+        "durationMinutesOffsetFromStartTime" : "93"
+      },
+      {
+        "point" : "geo:46.014883,11.291729",
+        "durationMinutesOffsetFromStartTime" : "96"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-06T09:00:00.000Z",
+    "startTime" : "2025-06-06T07:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:46.011956,11.302969",
+        "durationMinutesOffsetFromStartTime" : "88"
+      },
+      {
+        "point" : "geo:46.011761,11.300937",
+        "durationMinutesOffsetFromStartTime" : "93"
+      },
+      {
+        "point" : "geo:46.011487,11.301785",
+        "durationMinutesOffsetFromStartTime" : "99"
+      },
+      {
+        "point" : "geo:46.011238,11.302423",
+        "durationMinutesOffsetFromStartTime" : "100"
+      },
+      {
+        "point" : "geo:46.010933,11.302070",
+        "durationMinutesOffsetFromStartTime" : "112"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-06T11:00:00.000Z",
+    "startTime" : "2025-06-06T09:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:46.011587,11.302608",
+        "durationMinutesOffsetFromStartTime" : "61"
+      },
+      {
+        "point" : "geo:46.010287,11.301230",
+        "durationMinutesOffsetFromStartTime" : "68"
+      },
+      {
+        "point" : "geo:46.012593,11.295924",
+        "durationMinutesOffsetFromStartTime" : "70"
+      },
+      {
+        "point" : "geo:46.013906,11.294365",
+        "durationMinutesOffsetFromStartTime" : "71"
+      },
+      {
+        "point" : "geo:46.015096,11.292306",
+        "durationMinutesOffsetFromStartTime" : "72"
+      },
+      {
+        "point" : "geo:46.015408,11.292941",
+        "durationMinutesOffsetFromStartTime" : "73"
+      },
+      {
+        "point" : "geo:46.013324,11.297558",
+        "durationMinutesOffsetFromStartTime" : "74"
+      },
+      {
+        "point" : "geo:46.012750,11.305275",
+        "durationMinutesOffsetFromStartTime" : "76"
+      },
+      {
+        "point" : "geo:46.013721,11.308497",
+        "durationMinutesOffsetFromStartTime" : "90"
+      },
+      {
+        "point" : "geo:46.008693,11.314435",
+        "durationMinutesOffsetFromStartTime" : "100"
+      },
+      {
+        "point" : "geo:46.009219,11.313529",
+        "durationMinutesOffsetFromStartTime" : "101"
+      },
+      {
+        "point" : "geo:46.009068,11.313744",
+        "durationMinutesOffsetFromStartTime" : "106"
+      },
+      {
+        "point" : "geo:46.008814,11.306211",
+        "durationMinutesOffsetFromStartTime" : "116"
+      },
+      {
+        "point" : "geo:46.008996,11.306629",
+        "durationMinutesOffsetFromStartTime" : "117"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-06T13:00:00.000Z",
+    "startTime" : "2025-06-06T11:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:46.009109,11.306769",
+        "durationMinutesOffsetFromStartTime" : "1"
+      },
+      {
+        "point" : "geo:46.009272,11.313517",
+        "durationMinutesOffsetFromStartTime" : "7"
+      },
+      {
+        "point" : "geo:46.008313,11.304267",
+        "durationMinutesOffsetFromStartTime" : "10"
+      },
+      {
+        "point" : "geo:46.010566,11.298434",
+        "durationMinutesOffsetFromStartTime" : "12"
+      },
+      {
+        "point" : "geo:46.013706,11.294929",
+        "durationMinutesOffsetFromStartTime" : "12"
+      },
+      {
+        "point" : "geo:46.014495,11.292443",
+        "durationMinutesOffsetFromStartTime" : "13"
+      },
+      {
+        "point" : "geo:46.015690,11.292469",
+        "durationMinutesOffsetFromStartTime" : "118"
+      },
+      {
+        "point" : "geo:46.016149,11.295100",
+        "durationMinutesOffsetFromStartTime" : "119"
+      },
+      {
+        "point" : "geo:46.014712,11.298858",
+        "durationMinutesOffsetFromStartTime" : "120"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-06T15:00:00.000Z",
+    "startTime" : "2025-06-06T13:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:46.014571,11.298930",
+        "durationMinutesOffsetFromStartTime" : "20"
+      },
+      {
+        "point" : "geo:46.012445,11.310063",
+        "durationMinutesOffsetFromStartTime" : "41"
+      },
+      {
+        "point" : "geo:46.012431,11.310186",
+        "durationMinutesOffsetFromStartTime" : "75"
+      },
+      {
+        "point" : "geo:46.009149,11.313848",
+        "durationMinutesOffsetFromStartTime" : "81"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-06T17:00:00.000Z",
+    "startTime" : "2025-06-06T15:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:46.009006,11.311942",
+        "durationMinutesOffsetFromStartTime" : "25"
+      },
+      {
+        "point" : "geo:46.008735,11.305859",
+        "durationMinutesOffsetFromStartTime" : "26"
+      },
+      {
+        "point" : "geo:46.009541,11.300326",
+        "durationMinutesOffsetFromStartTime" : "27"
+      },
+      {
+        "point" : "geo:46.014648,11.292119",
+        "durationMinutesOffsetFromStartTime" : "31"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-06T21:00:00.000Z",
+    "startTime" : "2025-06-06T19:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:46.013329,11.295213",
+        "durationMinutesOffsetFromStartTime" : "49"
+      },
+      {
+        "point" : "geo:46.009945,11.298931",
+        "durationMinutesOffsetFromStartTime" : "50"
+      },
+      {
+        "point" : "geo:46.008178,11.307973",
+        "durationMinutesOffsetFromStartTime" : "52"
+      },
+      {
+        "point" : "geo:46.008925,11.313850",
+        "durationMinutesOffsetFromStartTime" : "53"
+      },
+      {
+        "point" : "geo:46.009158,11.313459",
+        "durationMinutesOffsetFromStartTime" : "55"
+      },
+      {
+        "point" : "geo:46.009152,11.313700",
+        "durationMinutesOffsetFromStartTime" : "57"
+      },
+      {
+        "point" : "geo:46.008899,11.312544",
+        "durationMinutesOffsetFromStartTime" : "109"
+      },
+      {
+        "point" : "geo:46.009374,11.305665",
+        "durationMinutesOffsetFromStartTime" : "110"
+      },
+      {
+        "point" : "geo:46.009237,11.301054",
+        "durationMinutesOffsetFromStartTime" : "111"
+      },
+      {
+        "point" : "geo:46.014903,11.291748",
+        "durationMinutesOffsetFromStartTime" : "114"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-07T09:00:00.000Z",
+    "startTime" : "2025-06-07T07:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:46.011315,11.297028",
+        "durationMinutesOffsetFromStartTime" : "42"
+      },
+      {
+        "point" : "geo:46.010145,11.298665",
+        "durationMinutesOffsetFromStartTime" : "43"
+      },
+      {
+        "point" : "geo:46.009092,11.305577",
+        "durationMinutesOffsetFromStartTime" : "44"
+      },
+      {
+        "point" : "geo:46.009056,11.306455",
+        "durationMinutesOffsetFromStartTime" : "47"
+      },
+      {
+        "point" : "geo:46.008877,11.306353",
+        "durationMinutesOffsetFromStartTime" : "48"
+      },
+      {
+        "point" : "geo:46.008210,11.306860",
+        "durationMinutesOffsetFromStartTime" : "50"
+      },
+      {
+        "point" : "geo:46.016483,11.330973",
+        "durationMinutesOffsetFromStartTime" : "51"
+      },
+      {
+        "point" : "geo:46.017527,11.347954",
+        "durationMinutesOffsetFromStartTime" : "52"
+      },
+      {
+        "point" : "geo:46.027264,11.374574",
+        "durationMinutesOffsetFromStartTime" : "54"
+      },
+      {
+        "point" : "geo:46.034137,11.394925",
+        "durationMinutesOffsetFromStartTime" : "56"
+      },
+      {
+        "point" : "geo:46.034283,11.395083",
+        "durationMinutesOffsetFromStartTime" : "58"
+      },
+      {
+        "point" : "geo:46.052522,11.451733",
+        "durationMinutesOffsetFromStartTime" : "62"
+      },
+      {
+        "point" : "geo:46.052795,11.462563",
+        "durationMinutesOffsetFromStartTime" : "64"
+      },
+      {
+        "point" : "geo:46.055227,11.470986",
+        "durationMinutesOffsetFromStartTime" : "66"
+      },
+      {
+        "point" : "geo:46.055334,11.473862",
+        "durationMinutesOffsetFromStartTime" : "68"
+      },
+      {
+        "point" : "geo:46.050129,11.491850",
+        "durationMinutesOffsetFromStartTime" : "73"
+      },
+      {
+        "point" : "geo:46.050256,11.492494",
+        "durationMinutesOffsetFromStartTime" : "76"
+      },
+      {
+        "point" : "geo:46.050248,11.492522",
+        "durationMinutesOffsetFromStartTime" : "91"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-07T11:00:00.000Z",
+    "startTime" : "2025-06-07T09:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:46.054922,11.473565",
+        "durationMinutesOffsetFromStartTime" : "13"
+      },
+      {
+        "point" : "geo:46.055011,11.473386",
+        "durationMinutesOffsetFromStartTime" : "14"
+      },
+      {
+        "point" : "geo:46.055560,11.473724",
+        "durationMinutesOffsetFromStartTime" : "15"
+      },
+      {
+        "point" : "geo:46.055975,11.474818",
+        "durationMinutesOffsetFromStartTime" : "18"
+      },
+      {
+        "point" : "geo:46.055051,11.469375",
+        "durationMinutesOffsetFromStartTime" : "19"
+      },
+      {
+        "point" : "geo:46.052454,11.461483",
+        "durationMinutesOffsetFromStartTime" : "20"
+      },
+      {
+        "point" : "geo:46.051577,11.456669",
+        "durationMinutesOffsetFromStartTime" : "21"
+      },
+      {
+        "point" : "geo:46.052052,11.447084",
+        "durationMinutesOffsetFromStartTime" : "22"
+      },
+      {
+        "point" : "geo:46.043485,11.420132",
+        "durationMinutesOffsetFromStartTime" : "25"
+      },
+      {
+        "point" : "geo:46.024568,11.372092",
+        "durationMinutesOffsetFromStartTime" : "28"
+      },
+      {
+        "point" : "geo:46.012082,11.296119",
+        "durationMinutesOffsetFromStartTime" : "35"
+      },
+      {
+        "point" : "geo:46.014874,11.291781",
+        "durationMinutesOffsetFromStartTime" : "37"
+      },
+      {
+        "point" : "geo:46.014922,11.291690",
+        "durationMinutesOffsetFromStartTime" : "40"
+      },
+      {
+        "point" : "geo:46.014897,11.291640",
+        "durationMinutesOffsetFromStartTime" : "41"
+      },
+      {
+        "point" : "geo:46.014631,11.292547",
+        "durationMinutesOffsetFromStartTime" : "87"
+      },
+      {
+        "point" : "geo:46.010618,11.298300",
+        "durationMinutesOffsetFromStartTime" : "88"
+      },
+      {
+        "point" : "geo:46.008751,11.302923",
+        "durationMinutesOffsetFromStartTime" : "89"
+      },
+      {
+        "point" : "geo:46.008182,11.307945",
+        "durationMinutesOffsetFromStartTime" : "90"
+      },
+      {
+        "point" : "geo:46.008903,11.313786",
+        "durationMinutesOffsetFromStartTime" : "91"
+      },
+      {
+        "point" : "geo:46.009151,11.313372",
+        "durationMinutesOffsetFromStartTime" : "94"
+      },
+      {
+        "point" : "geo:46.008969,11.313616",
+        "durationMinutesOffsetFromStartTime" : "97"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-07T13:00:00.000Z",
+    "startTime" : "2025-06-07T11:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:46.008434,11.305661",
+        "durationMinutesOffsetFromStartTime" : "109"
+      },
+      {
+        "point" : "geo:46.008926,11.302191",
+        "durationMinutesOffsetFromStartTime" : "111"
+      },
+      {
+        "point" : "geo:46.011377,11.296945",
+        "durationMinutesOffsetFromStartTime" : "112"
+      },
+      {
+        "point" : "geo:46.014891,11.291720",
+        "durationMinutesOffsetFromStartTime" : "113"
+      },
+      {
+        "point" : "geo:46.014922,11.291689",
+        "durationMinutesOffsetFromStartTime" : "114"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-07T15:00:00.000Z",
+    "startTime" : "2025-06-07T13:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:46.014926,11.291689",
+        "durationMinutesOffsetFromStartTime" : "1"
+      },
+      {
+        "point" : "geo:46.013415,11.288282",
+        "durationMinutesOffsetFromStartTime" : "31"
+      },
+      {
+        "point" : "geo:46.003117,11.287789",
+        "durationMinutesOffsetFromStartTime" : "33"
+      },
+      {
+        "point" : "geo:46.035893,11.244461",
+        "durationMinutesOffsetFromStartTime" : "38"
+      },
+      {
+        "point" : "geo:46.077245,11.205663",
+        "durationMinutesOffsetFromStartTime" : "42"
+      },
+      {
+        "point" : "geo:46.078130,11.204012",
+        "durationMinutesOffsetFromStartTime" : "43"
+      },
+      {
+        "point" : "geo:46.083169,11.177940",
+        "durationMinutesOffsetFromStartTime" : "44"
+      },
+      {
+        "point" : "geo:46.072758,11.150171",
+        "durationMinutesOffsetFromStartTime" : "47"
+      },
+      {
+        "point" : "geo:46.069920,11.136324",
+        "durationMinutesOffsetFromStartTime" : "48"
+      },
+      {
+        "point" : "geo:46.065881,11.134441",
+        "durationMinutesOffsetFromStartTime" : "49"
+      },
+      {
+        "point" : "geo:46.070675,11.127001",
+        "durationMinutesOffsetFromStartTime" : "51"
+      },
+      {
+        "point" : "geo:46.072966,11.122577",
+        "durationMinutesOffsetFromStartTime" : "53"
+      },
+      {
+        "point" : "geo:46.072333,11.120165",
+        "durationMinutesOffsetFromStartTime" : "54"
+      },
+      {
+        "point" : "geo:46.072139,11.119385",
+        "durationMinutesOffsetFromStartTime" : "57"
+      },
+      {
+        "point" : "geo:46.072389,11.119237",
+        "durationMinutesOffsetFromStartTime" : "64"
+      },
+      {
+        "point" : "geo:46.071381,11.119952",
+        "durationMinutesOffsetFromStartTime" : "71"
+      },
+      {
+        "point" : "geo:46.071889,11.120068",
+        "durationMinutesOffsetFromStartTime" : "75"
+      },
+      {
+        "point" : "geo:46.072087,11.119132",
+        "durationMinutesOffsetFromStartTime" : "81"
+      },
+      {
+        "point" : "geo:45.994489,11.122200",
+        "durationMinutesOffsetFromStartTime" : "110"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-07T17:00:00.000Z",
+    "startTime" : "2025-06-07T15:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:45.891141,11.034262",
+        "durationMinutesOffsetFromStartTime" : "3"
+      },
+      {
+        "point" : "geo:45.891294,11.034246",
+        "durationMinutesOffsetFromStartTime" : "5"
+      },
+      {
+        "point" : "geo:45.891666,11.034168",
+        "durationMinutesOffsetFromStartTime" : "6"
+      },
+      {
+        "point" : "geo:45.890868,11.034418",
+        "durationMinutesOffsetFromStartTime" : "13"
+      },
+      {
+        "point" : "geo:45.879312,11.030122",
+        "durationMinutesOffsetFromStartTime" : "15"
+      },
+      {
+        "point" : "geo:45.870663,11.017597",
+        "durationMinutesOffsetFromStartTime" : "16"
+      },
+      {
+        "point" : "geo:45.867727,11.011503",
+        "durationMinutesOffsetFromStartTime" : "17"
+      },
+      {
+        "point" : "geo:45.852835,11.001625",
+        "durationMinutesOffsetFromStartTime" : "20"
+      },
+      {
+        "point" : "geo:45.844451,11.000989",
+        "durationMinutesOffsetFromStartTime" : "21"
+      },
+      {
+        "point" : "geo:45.819784,11.004868",
+        "durationMinutesOffsetFromStartTime" : "23"
+      },
+      {
+        "point" : "geo:45.788794,11.019776",
+        "durationMinutesOffsetFromStartTime" : "25"
+      },
+      {
+        "point" : "geo:45.724136,10.937901",
+        "durationMinutesOffsetFromStartTime" : "30"
+      },
+      {
+        "point" : "geo:45.654401,10.889899",
+        "durationMinutesOffsetFromStartTime" : "36"
+      },
+      {
+        "point" : "geo:45.591941,10.837096",
+        "durationMinutesOffsetFromStartTime" : "41"
+      },
+      {
+        "point" : "geo:45.544672,10.782839",
+        "durationMinutesOffsetFromStartTime" : "46"
+      },
+      {
+        "point" : "geo:45.536981,10.779777",
+        "durationMinutesOffsetFromStartTime" : "46"
+      },
+      {
+        "point" : "geo:45.497910,10.786051",
+        "durationMinutesOffsetFromStartTime" : "48"
+      },
+      {
+        "point" : "geo:45.484954,10.796548",
+        "durationMinutesOffsetFromStartTime" : "49"
+      },
+      {
+        "point" : "geo:45.439886,10.897876",
+        "durationMinutesOffsetFromStartTime" : "54"
+      },
+      {
+        "point" : "geo:45.430474,10.940840",
+        "durationMinutesOffsetFromStartTime" : "60"
+      },
+      {
+        "point" : "geo:45.430171,10.986293",
+        "durationMinutesOffsetFromStartTime" : "64"
+      },
+      {
+        "point" : "geo:45.417535,10.990662",
+        "durationMinutesOffsetFromStartTime" : "67"
+      },
+      {
+        "point" : "geo:45.416091,10.992387",
+        "durationMinutesOffsetFromStartTime" : "68"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-07T21:00:00.000Z",
+    "startTime" : "2025-06-07T19:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:45.415351,10.993269",
+        "durationMinutesOffsetFromStartTime" : "30"
+      },
+      {
+        "point" : "geo:45.412785,10.998684",
+        "durationMinutesOffsetFromStartTime" : "32"
+      },
+      {
+        "point" : "geo:45.411804,11.000777",
+        "durationMinutesOffsetFromStartTime" : "86"
+      },
+      {
+        "point" : "geo:45.409371,11.000094",
+        "durationMinutesOffsetFromStartTime" : "86"
+      },
+      {
+        "point" : "geo:45.396964,11.011171",
+        "durationMinutesOffsetFromStartTime" : "90"
+      },
+      {
+        "point" : "geo:45.396839,11.016618",
+        "durationMinutesOffsetFromStartTime" : "91"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-07T23:00:00.000Z",
+    "startTime" : "2025-06-07T21:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:45.396600,11.015614",
+        "durationMinutesOffsetFromStartTime" : "113"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-08T01:00:00.000Z",
+    "startTime" : "2025-06-07T23:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:45.415906,10.992580",
+        "durationMinutesOffsetFromStartTime" : "1"
+      },
+      {
+        "point" : "geo:45.416015,10.992796",
+        "durationMinutesOffsetFromStartTime" : "2"
+      },
+      {
+        "point" : "geo:45.416205,10.992358",
+        "durationMinutesOffsetFromStartTime" : "3"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-08T17:00:00.000Z",
+    "startTime" : "2025-06-08T15:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:45.416239,10.992423",
+        "durationMinutesOffsetFromStartTime" : "13"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-09T11:00:00.000Z",
+    "startTime" : "2025-06-09T09:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:45.416142,10.992202",
+        "durationMinutesOffsetFromStartTime" : "112"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-10T11:00:00.000Z",
+    "startTime" : "2025-06-10T09:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:45.416205,10.992358",
+        "durationMinutesOffsetFromStartTime" : "99"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-11T07:00:00.000Z",
+    "startTime" : "2025-06-11T05:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:45.416205,10.992358",
+        "durationMinutesOffsetFromStartTime" : "40"
+      },
+      {
+        "point" : "geo:45.416190,10.991912",
+        "durationMinutesOffsetFromStartTime" : "86"
+      },
+      {
+        "point" : "geo:45.417397,10.990847",
+        "durationMinutesOffsetFromStartTime" : "94"
+      },
+      {
+        "point" : "geo:45.420896,10.989387",
+        "durationMinutesOffsetFromStartTime" : "96"
+      },
+      {
+        "point" : "geo:45.431750,10.995307",
+        "durationMinutesOffsetFromStartTime" : "99"
+      },
+      {
+        "point" : "geo:45.435763,10.996826",
+        "durationMinutesOffsetFromStartTime" : "102"
+      },
+      {
+        "point" : "geo:45.434749,11.000970",
+        "durationMinutesOffsetFromStartTime" : "103"
+      },
+      {
+        "point" : "geo:45.436071,11.004076",
+        "durationMinutesOffsetFromStartTime" : "105"
+      },
+      {
+        "point" : "geo:45.437518,11.004452",
+        "durationMinutesOffsetFromStartTime" : "109"
+      },
+      {
+        "point" : "geo:45.437514,11.004445",
+        "durationMinutesOffsetFromStartTime" : "110"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-11T11:00:00.000Z",
+    "startTime" : "2025-06-11T09:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:45.437222,11.001898",
+        "durationMinutesOffsetFromStartTime" : "66"
+      },
+      {
+        "point" : "geo:45.435440,11.000839",
+        "durationMinutesOffsetFromStartTime" : "69"
+      },
+      {
+        "point" : "geo:45.435683,11.001141",
+        "durationMinutesOffsetFromStartTime" : "70"
+      },
+      {
+        "point" : "geo:45.435227,10.999781",
+        "durationMinutesOffsetFromStartTime" : "71"
+      },
+      {
+        "point" : "geo:45.435883,11.000128",
+        "durationMinutesOffsetFromStartTime" : "84"
+      },
+      {
+        "point" : "geo:45.435746,10.999570",
+        "durationMinutesOffsetFromStartTime" : "106"
+      },
+      {
+        "point" : "geo:45.437560,11.002516",
+        "durationMinutesOffsetFromStartTime" : "113"
+      },
+      {
+        "point" : "geo:45.437370,11.003216",
+        "durationMinutesOffsetFromStartTime" : "115"
+      },
+      {
+        "point" : "geo:45.437939,11.006612",
+        "durationMinutesOffsetFromStartTime" : "118"
+      },
+      {
+        "point" : "geo:45.437849,11.006467",
+        "durationMinutesOffsetFromStartTime" : "119"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-11T13:00:00.000Z",
+    "startTime" : "2025-06-11T11:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:45.438362,11.010900",
+        "durationMinutesOffsetFromStartTime" : "4"
+      },
+      {
+        "point" : "geo:45.437635,11.011116",
+        "durationMinutesOffsetFromStartTime" : "7"
+      },
+      {
+        "point" : "geo:45.437753,11.011900",
+        "durationMinutesOffsetFromStartTime" : "13"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-11T17:00:00.000Z",
+    "startTime" : "2025-06-11T15:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:45.437823,11.012427",
+        "durationMinutesOffsetFromStartTime" : "12"
+      },
+      {
+        "point" : "geo:45.437627,11.011688",
+        "durationMinutesOffsetFromStartTime" : "96"
+      },
+      {
+        "point" : "geo:45.438213,11.011555",
+        "durationMinutesOffsetFromStartTime" : "99"
+      },
+      {
+        "point" : "geo:45.438920,11.011429",
+        "durationMinutesOffsetFromStartTime" : "100"
+      },
+      {
+        "point" : "geo:45.439223,11.012343",
+        "durationMinutesOffsetFromStartTime" : "101"
+      },
+      {
+        "point" : "geo:45.439432,11.013906",
+        "durationMinutesOffsetFromStartTime" : "102"
+      },
+      {
+        "point" : "geo:45.439445,11.014502",
+        "durationMinutesOffsetFromStartTime" : "103"
+      },
+      {
+        "point" : "geo:45.439681,11.015602",
+        "durationMinutesOffsetFromStartTime" : "104"
+      },
+      {
+        "point" : "geo:45.439675,11.015840",
+        "durationMinutesOffsetFromStartTime" : "106"
+      },
+      {
+        "point" : "geo:45.439658,11.015877",
+        "durationMinutesOffsetFromStartTime" : "107"
+      },
+      {
+        "point" : "geo:45.435207,11.003429",
+        "durationMinutesOffsetFromStartTime" : "110"
+      },
+      {
+        "point" : "geo:45.435469,10.998852",
+        "durationMinutesOffsetFromStartTime" : "112"
+      },
+      {
+        "point" : "geo:45.434918,10.996668",
+        "durationMinutesOffsetFromStartTime" : "113"
+      },
+      {
+        "point" : "geo:45.433126,10.996243",
+        "durationMinutesOffsetFromStartTime" : "114"
+      },
+      {
+        "point" : "geo:45.430551,10.994703",
+        "durationMinutesOffsetFromStartTime" : "115"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-11T19:00:00.000Z",
+    "startTime" : "2025-06-11T17:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:45.418898,10.988827",
+        "durationMinutesOffsetFromStartTime" : "0"
+      },
+      {
+        "point" : "geo:45.416051,10.992026",
+        "durationMinutesOffsetFromStartTime" : "2"
+      },
+      {
+        "point" : "geo:45.415072,10.993638",
+        "durationMinutesOffsetFromStartTime" : "9"
+      },
+      {
+        "point" : "geo:45.414508,10.994196",
+        "durationMinutesOffsetFromStartTime" : "27"
+      },
+      {
+        "point" : "geo:45.416139,10.992443",
+        "durationMinutesOffsetFromStartTime" : "34"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-11T21:00:00.000Z",
+    "startTime" : "2025-06-11T19:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:45.415664,10.992157",
+        "durationMinutesOffsetFromStartTime" : "61"
+      },
+      {
+        "point" : "geo:45.414854,10.991806",
+        "durationMinutesOffsetFromStartTime" : "62"
+      },
+      {
+        "point" : "geo:45.416652,10.991004",
+        "durationMinutesOffsetFromStartTime" : "66"
+      },
+      {
+        "point" : "geo:45.421106,10.985739",
+        "durationMinutesOffsetFromStartTime" : "68"
+      },
+      {
+        "point" : "geo:45.423473,10.984345",
+        "durationMinutesOffsetFromStartTime" : "68"
+      },
+      {
+        "point" : "geo:45.431207,10.988474",
+        "durationMinutesOffsetFromStartTime" : "71"
+      },
+      {
+        "point" : "geo:45.432192,10.985587",
+        "durationMinutesOffsetFromStartTime" : "71"
+      },
+      {
+        "point" : "geo:45.435277,10.985353",
+        "durationMinutesOffsetFromStartTime" : "72"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-11T23:00:00.000Z",
+    "startTime" : "2025-06-11T21:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:45.432900,10.984401",
+        "durationMinutesOffsetFromStartTime" : "3"
+      },
+      {
+        "point" : "geo:45.430535,10.988211",
+        "durationMinutesOffsetFromStartTime" : "4"
+      },
+      {
+        "point" : "geo:45.429259,10.986978",
+        "durationMinutesOffsetFromStartTime" : "5"
+      },
+      {
+        "point" : "geo:45.424237,10.984425",
+        "durationMinutesOffsetFromStartTime" : "5"
+      },
+      {
+        "point" : "geo:45.420831,10.986100",
+        "durationMinutesOffsetFromStartTime" : "6"
+      },
+      {
+        "point" : "geo:45.417376,10.990861",
+        "durationMinutesOffsetFromStartTime" : "7"
+      },
+      {
+        "point" : "geo:45.415967,10.992518",
+        "durationMinutesOffsetFromStartTime" : "8"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-12T09:00:00.000Z",
+    "startTime" : "2025-06-12T07:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:45.416205,10.992358",
+        "durationMinutesOffsetFromStartTime" : "117"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-12T11:00:00.000Z",
+    "startTime" : "2025-06-12T09:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:45.414824,10.993779",
+        "durationMinutesOffsetFromStartTime" : "1"
+      },
+      {
+        "point" : "geo:45.408754,10.999857",
+        "durationMinutesOffsetFromStartTime" : "4"
+      },
+      {
+        "point" : "geo:45.404410,11.002124",
+        "durationMinutesOffsetFromStartTime" : "7"
+      },
+      {
+        "point" : "geo:45.404353,10.998312",
+        "durationMinutesOffsetFromStartTime" : "10"
+      },
+      {
+        "point" : "geo:45.403998,10.997208",
+        "durationMinutesOffsetFromStartTime" : "13"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-12T17:00:00.000Z",
+    "startTime" : "2025-06-12T15:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:45.403393,10.996118",
+        "durationMinutesOffsetFromStartTime" : "20"
+      },
+      {
+        "point" : "geo:45.405338,10.998807",
+        "durationMinutesOffsetFromStartTime" : "26"
+      },
+      {
+        "point" : "geo:45.408610,11.000360",
+        "durationMinutesOffsetFromStartTime" : "28"
+      },
+      {
+        "point" : "geo:45.415378,10.992872",
+        "durationMinutesOffsetFromStartTime" : "32"
+      },
+      {
+        "point" : "geo:45.416075,10.992820",
+        "durationMinutesOffsetFromStartTime" : "34"
+      },
+      {
+        "point" : "geo:45.416171,10.992325",
+        "durationMinutesOffsetFromStartTime" : "51"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-13T09:00:00.000Z",
+    "startTime" : "2025-06-13T07:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:45.416205,10.992358",
+        "durationMinutesOffsetFromStartTime" : "57"
+      },
+      {
+        "point" : "geo:45.409810,10.999073",
+        "durationMinutesOffsetFromStartTime" : "64"
+      },
+      {
+        "point" : "geo:45.408096,11.000676",
+        "durationMinutesOffsetFromStartTime" : "65"
+      },
+      {
+        "point" : "geo:45.406111,11.001116",
+        "durationMinutesOffsetFromStartTime" : "66"
+      },
+      {
+        "point" : "geo:45.404185,10.997910",
+        "durationMinutesOffsetFromStartTime" : "69"
+      },
+      {
+        "point" : "geo:45.403783,10.996689",
+        "durationMinutesOffsetFromStartTime" : "71"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-13T19:00:00.000Z",
+    "startTime" : "2025-06-13T17:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:45.403215,10.995694",
+        "durationMinutesOffsetFromStartTime" : "40"
+      },
+      {
+        "point" : "geo:45.405228,10.997244",
+        "durationMinutesOffsetFromStartTime" : "43"
+      },
+      {
+        "point" : "geo:45.409691,10.993987",
+        "durationMinutesOffsetFromStartTime" : "50"
+      },
+      {
+        "point" : "geo:45.412509,10.993552",
+        "durationMinutesOffsetFromStartTime" : "54"
+      },
+      {
+        "point" : "geo:45.413554,10.993489",
+        "durationMinutesOffsetFromStartTime" : "55"
+      },
+      {
+        "point" : "geo:45.414510,10.993075",
+        "durationMinutesOffsetFromStartTime" : "56"
+      },
+      {
+        "point" : "geo:45.415630,10.993075",
+        "durationMinutesOffsetFromStartTime" : "58"
+      },
+      {
+        "point" : "geo:45.416081,10.992426",
+        "durationMinutesOffsetFromStartTime" : "59"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-14T21:00:00.000Z",
+    "startTime" : "2025-06-14T19:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:45.434506,11.003342",
+        "durationMinutesOffsetFromStartTime" : "86"
+      },
+      {
+        "point" : "geo:45.436051,11.004174",
+        "durationMinutesOffsetFromStartTime" : "89"
+      },
+      {
+        "point" : "geo:45.436652,11.004199",
+        "durationMinutesOffsetFromStartTime" : "90"
+      },
+      {
+        "point" : "geo:45.437656,11.001982",
+        "durationMinutesOffsetFromStartTime" : "95"
+      },
+      {
+        "point" : "geo:45.437402,11.003307",
+        "durationMinutesOffsetFromStartTime" : "107"
+      },
+      {
+        "point" : "geo:45.436512,11.004170",
+        "durationMinutesOffsetFromStartTime" : "111"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-14T23:00:00.000Z",
+    "startTime" : "2025-06-14T21:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:45.439489,11.001959",
+        "durationMinutesOffsetFromStartTime" : "1"
+      },
+      {
+        "point" : "geo:45.439519,11.002381",
+        "durationMinutesOffsetFromStartTime" : "2"
+      },
+      {
+        "point" : "geo:45.439554,11.002186",
+        "durationMinutesOffsetFromStartTime" : "3"
+      },
+      {
+        "point" : "geo:45.445630,11.002674",
+        "durationMinutesOffsetFromStartTime" : "11"
+      },
+      {
+        "point" : "geo:45.442825,11.002299",
+        "durationMinutesOffsetFromStartTime" : "14"
+      },
+      {
+        "point" : "geo:45.441876,11.004770",
+        "durationMinutesOffsetFromStartTime" : "16"
+      },
+      {
+        "point" : "geo:45.435432,11.001324",
+        "durationMinutesOffsetFromStartTime" : "22"
+      },
+      {
+        "point" : "geo:45.435303,10.998253",
+        "durationMinutesOffsetFromStartTime" : "23"
+      },
+      {
+        "point" : "geo:45.437062,10.995290",
+        "durationMinutesOffsetFromStartTime" : "28"
+      },
+      {
+        "point" : "geo:45.439061,10.992862",
+        "durationMinutesOffsetFromStartTime" : "86"
+      },
+      {
+        "point" : "geo:45.437520,10.994205",
+        "durationMinutesOffsetFromStartTime" : "94"
+      },
+      {
+        "point" : "geo:45.435380,10.998171",
+        "durationMinutesOffsetFromStartTime" : "101"
+      },
+      {
+        "point" : "geo:45.432470,10.997829",
+        "durationMinutesOffsetFromStartTime" : "103"
+      },
+      {
+        "point" : "geo:45.430415,10.994437",
+        "durationMinutesOffsetFromStartTime" : "104"
+      },
+      {
+        "point" : "geo:45.417613,10.990543",
+        "durationMinutesOffsetFromStartTime" : "107"
+      },
+      {
+        "point" : "geo:45.416680,10.991542",
+        "durationMinutesOffsetFromStartTime" : "108"
+      },
+      {
+        "point" : "geo:45.416103,10.992744",
+        "durationMinutesOffsetFromStartTime" : "109"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-15T15:00:00.000Z",
+    "startTime" : "2025-06-15T13:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:45.414662,10.994589",
+        "durationMinutesOffsetFromStartTime" : "54"
+      },
+      {
+        "point" : "geo:45.414543,10.994442",
+        "durationMinutesOffsetFromStartTime" : "62"
+      },
+      {
+        "point" : "geo:45.408705,10.999996",
+        "durationMinutesOffsetFromStartTime" : "65"
+      },
+      {
+        "point" : "geo:45.415870,10.992819",
+        "durationMinutesOffsetFromStartTime" : "74"
+      },
+      {
+        "point" : "geo:45.416207,10.992350",
+        "durationMinutesOffsetFromStartTime" : "75"
+      },
+      {
+        "point" : "geo:45.416151,10.992202",
+        "durationMinutesOffsetFromStartTime" : "99"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-16T07:00:00.000Z",
+    "startTime" : "2025-06-16T05:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:45.416012,10.992349",
+        "durationMinutesOffsetFromStartTime" : "43"
+      },
+      {
+        "point" : "geo:45.417877,10.990207",
+        "durationMinutesOffsetFromStartTime" : "52"
+      },
+      {
+        "point" : "geo:45.420881,10.989494",
+        "durationMinutesOffsetFromStartTime" : "53"
+      },
+      {
+        "point" : "geo:45.422097,10.990135",
+        "durationMinutesOffsetFromStartTime" : "54"
+      },
+      {
+        "point" : "geo:45.428573,10.993936",
+        "durationMinutesOffsetFromStartTime" : "55"
+      },
+      {
+        "point" : "geo:45.433577,10.996459",
+        "durationMinutesOffsetFromStartTime" : "57"
+      },
+      {
+        "point" : "geo:45.434880,10.996664",
+        "durationMinutesOffsetFromStartTime" : "58"
+      },
+      {
+        "point" : "geo:45.435177,11.000759",
+        "durationMinutesOffsetFromStartTime" : "59"
+      },
+      {
+        "point" : "geo:45.435070,11.001571",
+        "durationMinutesOffsetFromStartTime" : "60"
+      },
+      {
+        "point" : "geo:45.434353,11.010562",
+        "durationMinutesOffsetFromStartTime" : "62"
+      },
+      {
+        "point" : "geo:45.436494,11.014290",
+        "durationMinutesOffsetFromStartTime" : "63"
+      },
+      {
+        "point" : "geo:45.438234,11.016934",
+        "durationMinutesOffsetFromStartTime" : "64"
+      },
+      {
+        "point" : "geo:45.440115,11.015527",
+        "durationMinutesOffsetFromStartTime" : "66"
+      },
+      {
+        "point" : "geo:45.439127,11.015086",
+        "durationMinutesOffsetFromStartTime" : "68"
+      },
+      {
+        "point" : "geo:45.439429,11.014087",
+        "durationMinutesOffsetFromStartTime" : "69"
+      },
+      {
+        "point" : "geo:45.439333,11.013065",
+        "durationMinutesOffsetFromStartTime" : "70"
+      },
+      {
+        "point" : "geo:45.439107,11.011495",
+        "durationMinutesOffsetFromStartTime" : "71"
+      },
+      {
+        "point" : "geo:45.438592,11.010834",
+        "durationMinutesOffsetFromStartTime" : "73"
+      },
+      {
+        "point" : "geo:45.438247,11.010727",
+        "durationMinutesOffsetFromStartTime" : "75"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-16T09:00:00.000Z",
+    "startTime" : "2025-06-16T07:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:45.438967,11.010433",
+        "durationMinutesOffsetFromStartTime" : "75"
+      },
+      {
+        "point" : "geo:45.438891,11.009192",
+        "durationMinutesOffsetFromStartTime" : "76"
+      },
+      {
+        "point" : "geo:45.438886,11.008379",
+        "durationMinutesOffsetFromStartTime" : "78"
+      },
+      {
+        "point" : "geo:45.438964,11.007651",
+        "durationMinutesOffsetFromStartTime" : "79"
+      },
+      {
+        "point" : "geo:45.438771,11.006236",
+        "durationMinutesOffsetFromStartTime" : "80"
+      },
+      {
+        "point" : "geo:45.438501,11.004932",
+        "durationMinutesOffsetFromStartTime" : "81"
+      },
+      {
+        "point" : "geo:45.437700,11.004478",
+        "durationMinutesOffsetFromStartTime" : "84"
+      },
+      {
+        "point" : "geo:45.438326,11.003521",
+        "durationMinutesOffsetFromStartTime" : "93"
+      },
+      {
+        "point" : "geo:45.438502,11.002658",
+        "durationMinutesOffsetFromStartTime" : "94"
+      },
+      {
+        "point" : "geo:45.439095,11.002073",
+        "durationMinutesOffsetFromStartTime" : "96"
+      },
+      {
+        "point" : "geo:45.438343,11.003514",
+        "durationMinutesOffsetFromStartTime" : "97"
+      },
+      {
+        "point" : "geo:45.438364,11.004173",
+        "durationMinutesOffsetFromStartTime" : "98"
+      },
+      {
+        "point" : "geo:45.438949,11.009339",
+        "durationMinutesOffsetFromStartTime" : "105"
+      },
+      {
+        "point" : "geo:45.438886,11.009664",
+        "durationMinutesOffsetFromStartTime" : "110"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-16T11:00:00.000Z",
+    "startTime" : "2025-06-16T09:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:45.439089,11.011207",
+        "durationMinutesOffsetFromStartTime" : "90"
+      },
+      {
+        "point" : "geo:45.439388,11.013278",
+        "durationMinutesOffsetFromStartTime" : "92"
+      },
+      {
+        "point" : "geo:45.439456,11.014054",
+        "durationMinutesOffsetFromStartTime" : "93"
+      },
+      {
+        "point" : "geo:45.439819,11.015085",
+        "durationMinutesOffsetFromStartTime" : "94"
+      },
+      {
+        "point" : "geo:45.439890,11.015467",
+        "durationMinutesOffsetFromStartTime" : "96"
+      },
+      {
+        "point" : "geo:45.439698,11.015927",
+        "durationMinutesOffsetFromStartTime" : "102"
+      },
+      {
+        "point" : "geo:45.434854,11.001791",
+        "durationMinutesOffsetFromStartTime" : "111"
+      },
+      {
+        "point" : "geo:45.430624,10.994504",
+        "durationMinutesOffsetFromStartTime" : "117"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-16T13:00:00.000Z",
+    "startTime" : "2025-06-16T11:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:45.419535,10.988336",
+        "durationMinutesOffsetFromStartTime" : "2"
+      },
+      {
+        "point" : "geo:45.415976,10.991681",
+        "durationMinutesOffsetFromStartTime" : "5"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-16T15:00:00.000Z",
+    "startTime" : "2025-06-16T13:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:45.416207,10.992350",
+        "durationMinutesOffsetFromStartTime" : "115"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-16T17:00:00.000Z",
+    "startTime" : "2025-06-16T15:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:45.413944,10.991208",
+        "durationMinutesOffsetFromStartTime" : "13"
+      },
+      {
+        "point" : "geo:45.412573,10.990455",
+        "durationMinutesOffsetFromStartTime" : "15"
+      },
+      {
+        "point" : "geo:45.412445,10.989078",
+        "durationMinutesOffsetFromStartTime" : "28"
+      },
+      {
+        "point" : "geo:45.415629,10.987631",
+        "durationMinutesOffsetFromStartTime" : "29"
+      },
+      {
+        "point" : "geo:45.418481,10.989338",
+        "durationMinutesOffsetFromStartTime" : "31"
+      },
+      {
+        "point" : "geo:45.430554,10.983377",
+        "durationMinutesOffsetFromStartTime" : "37"
+      },
+      {
+        "point" : "geo:45.429399,10.982961",
+        "durationMinutesOffsetFromStartTime" : "39"
+      },
+      {
+        "point" : "geo:45.428351,10.982451",
+        "durationMinutesOffsetFromStartTime" : "43"
+      },
+      {
+        "point" : "geo:45.425251,10.955796",
+        "durationMinutesOffsetFromStartTime" : "57"
+      },
+      {
+        "point" : "geo:45.758991,10.996407",
+        "durationMinutesOffsetFromStartTime" : "92"
+      },
+      {
+        "point" : "geo:45.891254,11.034042",
+        "durationMinutesOffsetFromStartTime" : "106"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-16T19:00:00.000Z",
+    "startTime" : "2025-06-16T17:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:46.072440,11.119741",
+        "durationMinutesOffsetFromStartTime" : "7"
+      },
+      {
+        "point" : "geo:46.071921,11.124641",
+        "durationMinutesOffsetFromStartTime" : "10"
+      },
+      {
+        "point" : "geo:46.074024,11.124873",
+        "durationMinutesOffsetFromStartTime" : "12"
+      },
+      {
+        "point" : "geo:46.086282,11.118429",
+        "durationMinutesOffsetFromStartTime" : "16"
+      },
+      {
+        "point" : "geo:46.087550,11.117834",
+        "durationMinutesOffsetFromStartTime" : "34"
+      },
+      {
+        "point" : "geo:46.092824,11.115128",
+        "durationMinutesOffsetFromStartTime" : "35"
+      },
+      {
+        "point" : "geo:46.093317,11.122030",
+        "durationMinutesOffsetFromStartTime" : "36"
+      },
+      {
+        "point" : "geo:46.081705,11.197331",
+        "durationMinutesOffsetFromStartTime" : "40"
+      },
+      {
+        "point" : "geo:46.075952,11.207805",
+        "durationMinutesOffsetFromStartTime" : "41"
+      },
+      {
+        "point" : "geo:46.005608,11.272426",
+        "durationMinutesOffsetFromStartTime" : "49"
+      },
+      {
+        "point" : "geo:46.004196,11.289461",
+        "durationMinutesOffsetFromStartTime" : "50"
+      },
+      {
+        "point" : "geo:46.014710,11.292424",
+        "durationMinutesOffsetFromStartTime" : "54"
+      },
+      {
+        "point" : "geo:46.014867,11.291755",
+        "durationMinutesOffsetFromStartTime" : "58"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-17T09:00:00.000Z",
+    "startTime" : "2025-06-17T07:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:46.014900,11.291635",
+        "durationMinutesOffsetFromStartTime" : "57"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-17T11:00:00.000Z",
+    "startTime" : "2025-06-17T09:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:46.014839,11.291761",
+        "durationMinutesOffsetFromStartTime" : "33"
+      },
+      {
+        "point" : "geo:46.012913,11.288581",
+        "durationMinutesOffsetFromStartTime" : "35"
+      },
+      {
+        "point" : "geo:46.009446,11.290092",
+        "durationMinutesOffsetFromStartTime" : "36"
+      },
+      {
+        "point" : "geo:46.007518,11.292666",
+        "durationMinutesOffsetFromStartTime" : "37"
+      },
+      {
+        "point" : "geo:46.003294,11.288092",
+        "durationMinutesOffsetFromStartTime" : "38"
+      },
+      {
+        "point" : "geo:46.003636,11.278917",
+        "durationMinutesOffsetFromStartTime" : "39"
+      },
+      {
+        "point" : "geo:46.010627,11.263203",
+        "durationMinutesOffsetFromStartTime" : "40"
+      },
+      {
+        "point" : "geo:46.020225,11.251990",
+        "durationMinutesOffsetFromStartTime" : "41"
+      },
+      {
+        "point" : "geo:46.029111,11.246093",
+        "durationMinutesOffsetFromStartTime" : "42"
+      },
+      {
+        "point" : "geo:46.036568,11.244193",
+        "durationMinutesOffsetFromStartTime" : "43"
+      },
+      {
+        "point" : "geo:46.044414,11.235561",
+        "durationMinutesOffsetFromStartTime" : "44"
+      },
+      {
+        "point" : "geo:46.055338,11.232724",
+        "durationMinutesOffsetFromStartTime" : "45"
+      },
+      {
+        "point" : "geo:46.067327,11.222214",
+        "durationMinutesOffsetFromStartTime" : "46"
+      },
+      {
+        "point" : "geo:46.076667,11.206231",
+        "durationMinutesOffsetFromStartTime" : "47"
+      },
+      {
+        "point" : "geo:46.082400,11.187979",
+        "durationMinutesOffsetFromStartTime" : "48"
+      },
+      {
+        "point" : "geo:46.082867,11.175249",
+        "durationMinutesOffsetFromStartTime" : "49"
+      },
+      {
+        "point" : "geo:46.077331,11.152507",
+        "durationMinutesOffsetFromStartTime" : "50"
+      },
+      {
+        "point" : "geo:46.077805,11.146877",
+        "durationMinutesOffsetFromStartTime" : "51"
+      },
+      {
+        "point" : "geo:46.094258,11.105225",
+        "durationMinutesOffsetFromStartTime" : "53"
+      },
+      {
+        "point" : "geo:46.086371,11.106761",
+        "durationMinutesOffsetFromStartTime" : "54"
+      },
+      {
+        "point" : "geo:46.083871,11.110971",
+        "durationMinutesOffsetFromStartTime" : "55"
+      },
+      {
+        "point" : "geo:46.083390,11.113937",
+        "durationMinutesOffsetFromStartTime" : "57"
+      },
+      {
+        "point" : "geo:46.087225,11.111234",
+        "durationMinutesOffsetFromStartTime" : "58"
+      },
+      {
+        "point" : "geo:46.089390,11.109416",
+        "durationMinutesOffsetFromStartTime" : "59"
+      },
+      {
+        "point" : "geo:46.091138,11.107937",
+        "durationMinutesOffsetFromStartTime" : "60"
+      },
+      {
+        "point" : "geo:46.091456,11.107117",
+        "durationMinutesOffsetFromStartTime" : "62"
+      },
+      {
+        "point" : "geo:46.091878,11.106898",
+        "durationMinutesOffsetFromStartTime" : "66"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-17T13:00:00.000Z",
+    "startTime" : "2025-06-17T11:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:46.091915,11.107108",
+        "durationMinutesOffsetFromStartTime" : "27"
+      },
+      {
+        "point" : "geo:46.087704,11.110776",
+        "durationMinutesOffsetFromStartTime" : "29"
+      },
+      {
+        "point" : "geo:46.085795,11.112395",
+        "durationMinutesOffsetFromStartTime" : "30"
+      },
+      {
+        "point" : "geo:46.090441,11.117059",
+        "durationMinutesOffsetFromStartTime" : "38"
+      },
+      {
+        "point" : "geo:46.090544,11.117349",
+        "durationMinutesOffsetFromStartTime" : "49"
+      },
+      {
+        "point" : "geo:46.050942,11.233979",
+        "durationMinutesOffsetFromStartTime" : "63"
+      },
+      {
+        "point" : "geo:46.007148,11.292764",
+        "durationMinutesOffsetFromStartTime" : "70"
+      },
+      {
+        "point" : "geo:46.010648,11.298306",
+        "durationMinutesOffsetFromStartTime" : "79"
+      },
+      {
+        "point" : "geo:46.014855,11.291609",
+        "durationMinutesOffsetFromStartTime" : "82"
+      },
+      {
+        "point" : "geo:46.014894,11.291712",
+        "durationMinutesOffsetFromStartTime" : "84"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-17T15:00:00.000Z",
+    "startTime" : "2025-06-17T13:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:46.013722,11.294330",
+        "durationMinutesOffsetFromStartTime" : "69"
+      },
+      {
+        "point" : "geo:46.010402,11.298469",
+        "durationMinutesOffsetFromStartTime" : "70"
+      },
+      {
+        "point" : "geo:46.009160,11.301293",
+        "durationMinutesOffsetFromStartTime" : "71"
+      },
+      {
+        "point" : "geo:46.009349,11.304660",
+        "durationMinutesOffsetFromStartTime" : "75"
+      },
+      {
+        "point" : "geo:46.011133,11.302625",
+        "durationMinutesOffsetFromStartTime" : "78"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-17T17:00:00.000Z",
+    "startTime" : "2025-06-17T15:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:46.010637,11.303503",
+        "durationMinutesOffsetFromStartTime" : "45"
+      },
+      {
+        "point" : "geo:46.009266,11.300915",
+        "durationMinutesOffsetFromStartTime" : "55"
+      },
+      {
+        "point" : "geo:46.013432,11.294882",
+        "durationMinutesOffsetFromStartTime" : "57"
+      },
+      {
+        "point" : "geo:46.014607,11.292216",
+        "durationMinutesOffsetFromStartTime" : "58"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-17T21:00:00.000Z",
+    "startTime" : "2025-06-17T19:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:46.012811,11.298563",
+        "durationMinutesOffsetFromStartTime" : "17"
+      },
+      {
+        "point" : "geo:46.011660,11.300925",
+        "durationMinutesOffsetFromStartTime" : "21"
+      },
+      {
+        "point" : "geo:46.013238,11.297633",
+        "durationMinutesOffsetFromStartTime" : "26"
+      },
+      {
+        "point" : "geo:46.002904,11.287589",
+        "durationMinutesOffsetFromStartTime" : "30"
+      },
+      {
+        "point" : "geo:45.996093,11.258198",
+        "durationMinutesOffsetFromStartTime" : "34"
+      },
+      {
+        "point" : "geo:46.001548,11.249142",
+        "durationMinutesOffsetFromStartTime" : "36"
+      },
+      {
+        "point" : "geo:46.000742,11.251705",
+        "durationMinutesOffsetFromStartTime" : "38"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-17T23:00:00.000Z",
+    "startTime" : "2025-06-17T21:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:46.001597,11.251926",
+        "durationMinutesOffsetFromStartTime" : "3"
+      },
+      {
+        "point" : "geo:46.001184,11.251458",
+        "durationMinutesOffsetFromStartTime" : "5"
+      },
+      {
+        "point" : "geo:46.001529,11.255893",
+        "durationMinutesOffsetFromStartTime" : "7"
+      },
+      {
+        "point" : "geo:45.998968,11.257715",
+        "durationMinutesOffsetFromStartTime" : "14"
+      },
+      {
+        "point" : "geo:46.015766,11.295473",
+        "durationMinutesOffsetFromStartTime" : "20"
+      },
+      {
+        "point" : "geo:46.014912,11.291886",
+        "durationMinutesOffsetFromStartTime" : "21"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-18T09:00:00.000Z",
+    "startTime" : "2025-06-18T07:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:46.012844,11.295531",
+        "durationMinutesOffsetFromStartTime" : "64"
+      },
+      {
+        "point" : "geo:46.010080,11.298979",
+        "durationMinutesOffsetFromStartTime" : "65"
+      },
+      {
+        "point" : "geo:46.008577,11.303627",
+        "durationMinutesOffsetFromStartTime" : "66"
+      },
+      {
+        "point" : "geo:46.008333,11.306192",
+        "durationMinutesOffsetFromStartTime" : "67"
+      },
+      {
+        "point" : "geo:46.008297,11.311946",
+        "durationMinutesOffsetFromStartTime" : "67"
+      },
+      {
+        "point" : "geo:46.008970,11.316963",
+        "durationMinutesOffsetFromStartTime" : "74"
+      },
+      {
+        "point" : "geo:46.034580,11.395411",
+        "durationMinutesOffsetFromStartTime" : "80"
+      },
+      {
+        "point" : "geo:46.052135,11.448643",
+        "durationMinutesOffsetFromStartTime" : "84"
+      },
+      {
+        "point" : "geo:46.052168,11.467586",
+        "durationMinutesOffsetFromStartTime" : "88"
+      },
+      {
+        "point" : "geo:46.051158,11.470187",
+        "durationMinutesOffsetFromStartTime" : "90"
+      }
+    ]
+  },
+  {
+    "endTime" : "2025-06-18T15:00:00.000Z",
+    "startTime" : "2025-06-18T13:00:00.000Z",
+    "timelinePath" : [
+      {
+        "point" : "geo:46.051310,11.469846",
+        "durationMinutesOffsetFromStartTime" : "66"
+      },
+      {
+        "point" : "geo:46.052299,11.460748",
+        "durationMinutesOffsetFromStartTime" : "68"
+      },
+      {
+        "point" : "geo:46.051449,11.455790",
+        "durationMinutesOffsetFromStartTime" : "69"
+      },
+      {
+        "point" : "geo:46.052311,11.449826",
+        "durationMinutesOffsetFromStartTime" : "70"
+      },
+      {
+        "point" : "geo:46.017993,11.349146",
+        "durationMinutesOffsetFromStartTime" : "77"
+      },
+      {
+        "point" : "geo:46.009169,11.313592",
+        "durationMinutesOffsetFromStartTime" : "81"
+      },
+      {
+        "point" : "geo:46.009002,11.311959",
+        "durationMinutesOffsetFromStartTime" : "85"
+      },
+      {
+        "point" : "geo:46.008816,11.305520",
+        "durationMinutesOffsetFromStartTime" : "87"
+      },
+      {
+        "point" : "geo:46.010309,11.298754",
+        "durationMinutesOffsetFromStartTime" : "88"
+      },
+      {
+        "point" : "geo:46.014786,11.291890",
+        "durationMinutesOffsetFromStartTime" : "92"
+      }
+    ]
+  }
+]

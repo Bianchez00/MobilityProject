@@ -1,0 +1,47 @@
+{
+  "semanticSegments": [
+    {
+      "startTime": "2025-04-02T16:00:00.000+02:00",
+      "endTime": "2025-04-02T18:00:00.000+02:00",
+      "timelinePath": [
+        {
+          "point": "45.4375565°, 11.0110733°",
+          "time": "2025-04-02T16:23:00.000+02:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-04-02T16:23:22.000+02:00",
+      "endTime": "2025-04-02T16:24:00.000+02:00",
+      "startTimeTimezoneUtcOffsetMinutes": 120,
+      "endTimeTimezoneUtcOffsetMinutes": 120,
+      "activity": {
+        "start": {
+          "latLng": "45.4375565°, 11.0110733°"
+        },
+        "end": {
+          "latLng": "45.437613°, 11.0109857°"
+        },
+        "distanceMeters": 9.283642768859863,
+        "probability": 0.725039005279541,
+        "topCandidate": {
+          "type": "WALKING",
+          "probability": 0.4694668650627136
+        }
+      }
+    }
+  ],
+  "rawSignals": [
+    {
+      "position": {
+        "LatLng": "45.4375565°, 11.0110733°",
+        "accuracyMeters": 20,
+        "altitudeMeters": 102.5999984741211,
+        "source": "UNKNOWN",
+        "timestamp": "2025-04-02T16:23:22.000+02:00",
+        "speedMetersPerSecond": 0.0
+      }
+    }
+  ],
+  "userLocationProfile": {}
+}
